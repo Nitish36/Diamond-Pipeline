@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diamond-analysis",
+  "private_key_id": "ac6758ca1aced64ce6ec49c6c23b1b2b37a50355",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFNhB1rhiNm3h+\nYqT6zsdAhgs0x58Mv2jPxu4nQOdfI/RwR95lLG0IOLZ/VFRRxKbQt/pdHTa+//mj\nUXMnwTEmEJ8c8SjKInAuVBwSgp9rIJ52RqVPOyRrOAV43eQJ8dc/MAFlWyl+fXU4\nkZlh3R8gx3IbGm3EmbUprIpHOuIhtLzV0p5TMmHzP9XRBYW6Lsk6Dnc1ATFj0zko\npHRGgAZuUpHlm1+fsejWtRpYps4uSLaNhNcK9fWFJ9zmwQ/d9fQ0sFNISQAujwyM\nBblzmJTsO8k09Jt8tNTsKNyPRhiefNUH5OGmFVyzHyUrf9cLi+o8tkJRPIFPJ5XD\nOTxbM+4LAgMBAAECggEAEB3WJC/enM/8Uw56X27U9MPKQv10qjoy9Wv98XefO59j\nbhD0LqjTSO04Pi6k7MEZRYxg1F7l/EpMsJlK7mWeP8ydnDlkdSRxri+R0xIZYiFa\ndzMDISGlsnIebF1sh0LcLYidoewHIj8G0eEq5kcHsLTr8SVsnA5YXPgB8vFFIq45\nrDHX/y8ZZJMoEZ7XVzS5sOzFBlN7GgVedc89LXzrC7wYMhhN8UogENnQf3GJBjeL\nYKz6A5ZzgJG56EQYIeX/B56XUUo8DtxU93kXEdba8mPLum+HSA2bRNERIYAKZR3d\nxlvB8g+wrKCo+0XIRYrfgrI+vve0Z0v10b8KTjbdoQKBgQDlUdc/AyjHnKo7PYtm\nt9fQNglUQrSeyIyvuiO7cBfphORtUNVGsT3XkvcaFtHidZxOZVOPSeByolD3zjVj\nBi/8qlGDWZNUItH7XS9b44CxGntDm1T6k7PyuTnnlSjy30vCl0kI2/4Emfgdfa+1\n5UjH2fL6FE6uTyh45CuoQRG+KwKBgQDcJ+PAMtYKbMzgMGlKPZETl6WrcCTZBXoW\nmHXTGY8NET1UAw9/eGmAwWLI+2IidFGLrz7o4SBjmeFZEiwjmy7IwZ6WEf2FLmXJ\noVPfuqdDaYxJ33n+L0vZDqV6OkZi8fLyhAmJmKEckvl3CVF8U0HptaYcrPJhEpKc\n6chS/xx/oQKBgQDXngUKPXk5fsfdHbgWI+Qq5LQO4w2bgqwtipKQagxByG9Tjb6L\nUpn4OTpX8H72NGl8mO9hejAs+QuyhNRTwHycULSGEVJiuL7BX1PpTVcyrtiZr9LO\nLNT0805LvkcbXfOJCuBkER2dy/usFwKAwA6XwwkgNLnqUYmXacrW0B/TswKBgDZc\nCxpL8xnD35qDmZvhM884pIl+OTr05T5rCrzDFNVPKmtyDgOVgcdu+KtTltmXCwOI\nk+oAnHS7bC8IE6n/CUA8vqGjc4vM9wkgMouNlPtKNn+PFJo0p2/C9A0IEpUf1LMY\n8xnse+uIRtyjimE+VYoVdhyif36EjXr9Jp+HqkvBAoGAUi9KO3gvK4z42ctEiJa9\n35dQbVhM/zjPa6UHERAZZBlwVAHNWAZJW60tMG4TcbaCVH22M7AJX5olgLTxiBqM\nlj5MCGwTzslSbDm/MReelFG/oe0Fjp0ZFPfNs//H8PtFWCrYxso3+/GgqdimK+Zw\n1/8vTOoFq5g7I9xGtdhWA4E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "diamonds@diamond-analysis.iam.gserviceaccount.com",
+  "client_id": "108927261715060572103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diamonds%40diamond-analysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,49 @@
+diamond_id	shape	size	color	fancy_color_dominant_color	fancy_color_secondary_color	fancy_color_overtone	fancy_color_intensity	clarity	cut	symmetry	polish	depth_percent	table_percent	meas_length	meas_width	meas_depth	girdle_min	girdle_max	culet_size	culet_condition	fluor_color	fluor_intensity	lab	total_sales_price	eye_clean	date
+
+
+diamond_id = 9 digit number
+size  =RANDBETWEEN(9,1935)*0.01
+color = "E", "F", "L", "D", "J", "I", "G", "H", "M", "K"
+fancy dominant color = "Orange", "Brown", "Yellow", "Pink", "Black", "Other", "Gray", "Purple", "Blue", "Green", "Chameleon", "Red"
+
+fancy_color_secondary_color = "Orange", "Brown", "Yellow", "Pink", "Black", "Other", "Gray", "Purple", "Blue", "Green", "Chameleon", "Red"
+
+fancy_color_overtone = "Yellowish", "Brownish", "Pinkish", "Greenish", "Orangey", "Purplish", "Grayish"
+
+fancy_color_intensity = "Fancy", "Very Light", "Faint", "Fancy Light", "Light","Fancy Deep", "Fancy Intense", "Fancy Dark", "Fancy Vivid"
+
+clarity = "VVS2", "VVS1", "I1", "VS1", "VS2", "IF", "SI2", "I2", "SI1", "SI3", "I3"
+
+cut = "Very Good", "Excellent", "Good", "Fair", "Poor"
+
+symmetry = "Very Good", "Excellent", "Good", "Fair", "Poor"
+
+polish = "Very Good", "Excellent", "Good", "Fair", "Poor"
+
+depth_percent = =RANDBETWEEN(0,99)*0.1
+
+table_percent = =RANDBETWEEN(0,94)*0.1
+
+meas_length = =RANDBETWEEN(285,1706)*0.01
+
+meas_width = =RANDBETWEEN(285,1706)*0.01
+
+meas_depth = =RANDBETWEEN(285,1706)*0.01
+
+girdle_min = "M", "STK", "TN", "TK", "VTN", "VTK", "XTK", "XTN", "STN")
+
+girdle_max = "M", "STK", "TN", "TK", "VTN", "VTK", "XTK", "XTN", "STN")
+
+culet_size = "N", "S", "M", "VS", "L", "EL", "SL", "VL")
+
+culet_condition = "Blue", "Yellow", "Green", "White", "Orange")
+
+fluor_color = "Blue", "Yellow", "Green", "White", "Orange")
+
+fluor_intensity = "Very Slight", "Strong", "Medium", "Faint", "Very Strong","Slight"
+lab = "IGI", "GIA", "HRD"
+
+total_sales_price = =RANDBETWEEN(200,1449881)
+eye_clean = "Yes", "E1", "Borderline", "No"
+
+date = =DATE(RANDBETWEEN(2005,2023), RANDBETWEEN(1,12), RANDBETWEEN(1,31))

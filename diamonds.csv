@@ -1,0 +1,501 @@
+diamond_id,shape,size,color,fancy_color_dominant_color,fancy_color_secondary_color,fancy_color_overtone,fancy_color_intensity,clarity,cut,symmetry,polish,depth_percent,table_percent,meas_length,meas_width,meas_depth,girdle_min,girdle_max,culet_size,culet_condition,fluor_color,fluor_intensity,lab,total_sales_price,eye_clean,date
+660361947,Radiant,12.96,E,Other,Orange,Greenish,Fancy Light,I3,Good,Excellent,Poor,6.5,8.7,8.3,14.84,7.76,STK,STK,M,Green,Green,Very Slight,GIA,1447020,Yes,2022-02-02
+397295362,Round,9.24,M,Blue,Purple,Greenish,Very Light,VVS1,Fair,Poor,Good,7.9,2.0,9.25,7.96,11.48,XTK,STK,VL,Blue,Green,Very Slight,GIA,713124,Borderline,2007-06-30
+398442081,Cushion Modified,18.14,J,Yellow,Chameleon,Grayish,Fancy Intense,SI2,Fair,Good,Very Good,3.4,4.5,16.23,16.15,13.27,TN,VTK,M,Yellow,Orange,Faint,GIA,983371,Yes,2005-04-04
+842098774,Radiant,10.05,K,Gray,Purple,Yellowish,Fancy,VVS2,Poor,Poor,Good,8.2,8.3,15.66,14.48,16.69,XTK,VTN,S,Blue,Yellow,Faint,IGI,547967,No,2017-06-10
+167689537,Princess,10.38,I,Red,Orange,Yellowish,Fancy Deep,VVS1,Poor,Good,Excellent,2.8,2.8,7.44,12.74,9.22,STN,TK,L,Green,Green,Very Strong,IGI,511021,Yes,2013-11-18
+860757441,Cushion Modified,7.58,K,Other,Yellow,Orangey,Fancy Dark,VS2,Very Good,Poor,Excellent,7.1,8.8,10.39,12.67,5.87,XTK,TN,VL,White,White,Strong,HRD,1277248,No,2007-06-29
+106098173,Heart,0.63,K,Pink,Blue,Pinkish,Fancy Light,VVS1,Poor,Very Good,Very Good,0.1,8.7,4.51,8.7,13.62,STN,TN,M,Green,Yellow,Medium,HRD,931886,Yes,2007-09-03
+112668860,Emerald,9.73,K,Blue,Other,Greenish,Light,I2,Poor,Fair,Fair,6.4,6.4,6.88,12.91,14.5,STK,TK,SL,Blue,Orange,Very Slight,IGI,1404996,Borderline,2015-08-03
+230786950,Round,8.55,G,Green,Other,Greenish,Fancy Dark,VVS1,Very Good,Very Good,Very Good,9.0,3.5,3.44,16.07,9.84,TK,TK,SL,Yellow,Yellow,Strong,IGI,45347,Borderline,2022-09-06
+445627739,Emerald,13.06,L,Green,Blue,Greenish,Very Light,IF,Excellent,Excellent,Good,2.9,7.3,13.77,15.65,11.15,STK,M,SL,Blue,Orange,Very Slight,HRD,994617,No,2004-11-26
+201417587,Round,14.65,L,Black,Yellow,Grayish,Fancy Vivid,VVS1,Fair,Very Good,Very Good,7.0,9.2,5.39,7.61,9.33,STN,VTN,VL,Yellow,Blue,Very Strong,HRD,962485,Yes,2022-05-13
+110795895,Heart,18.67,F,Chameleon,Brown,Grayish,Fancy Light,SI2,Excellent,Poor,Fair,8.6,1.9,8.66,6.71,4.41,VTK,XTK,VL,Blue,Orange,Faint,GIA,859638,No,2004-09-11
+124901781,Pear,13.69,G,Blue,Chameleon,Greenish,Very Light,SI1,Excellent,Excellent,Good,8.1,1.1,11.77,4.1,15.17,STK,TN,SL,Yellow,White,Slight,GIA,812620,No,2009-10-14
+257604544,Cushion,12.79,E,Orange,Gray,Pinkish,Fancy,VVS2,Good,Fair,Excellent,9.0,8.5,11.45,14.45,3.36,VTN,XTN,VS,White,Orange,Strong,GIA,1150491,E1,2012-05-20
+230500615,Round,7.23,I,Purple,Red,Brownish,Fancy Deep,SI3,Poor,Excellent,Fair,2.4,4.9,7.76,13.63,15.11,M,XTK,M,Green,Orange,Very Slight,GIA,1375532,Borderline,2009-03-29
+236967983,Oval,16.17,M,Black,Orange,Pinkish,Fancy,SI3,Poor,Fair,Excellent,8.4,4.9,8.19,12.45,11.57,XTK,VTK,EL,Yellow,Orange,Medium,IGI,115336,E1,2006-08-10
+638928301,Round,0.44,H,Purple,Chameleon,Yellowish,Fancy Light,VVS1,Very Good,Very Good,Good,0.4,5.6,3.71,11.21,10.61,VTK,TK,M,Orange,White,Strong,GIA,85066,Borderline,2023-04-25
+912909657,Marquise,12.27,H,Black,Pink,Orangey,Fancy Deep,VS1,Good,Very Good,Good,9.1,4.4,4.55,2.95,14.74,VTK,TK,N,White,Yellow,Slight,GIA,1348997,Yes,2011-08-04
+105559869,Round,16.87,M,Gray,Purple,Brownish,Fancy Deep,I1,Excellent,Excellent,Very Good,4.1,8.1,9.95,16.5,7.4,STK,STK,L,Blue,Orange,Slight,GIA,1445059,Borderline,2018-07-22
+245878955,Cushion Modified,13.51,I,Chameleon,Blue,Pinkish,Very Light,SI2,Very Good,Good,Excellent,7.0,0.2,16.33,13.74,4.95,XTK,TK,N,Yellow,Blue,Slight,HRD,1186916,Yes,2016-03-10
+202261535,Marquise,2.29,E,Gray,Black,Purplish,Faint,I2,Excellent,Poor,Excellent,4.0,7.5,15.83,12.64,4.05,VTN,XTK,L,White,White,Very Slight,IGI,1112160,Borderline,2005-12-17
+403601355,Emerald,1.59,I,Yellow,Pink,Greenish,Fancy,IF,Very Good,Poor,Poor,0.7,6.4,4.41,6.62,16.77,VTN,TN,N,Green,White,Very Strong,HRD,1370939,No,2017-12-05
+767024990,Heart,15.22,F,Red,Gray,Brownish,Fancy Deep,SI2,Poor,Very Good,Fair,0.4,3.9,3.71,5.47,14.59,VTN,VTN,EL,Yellow,Blue,Slight,GIA,1229274,E1,2006-05-05
+230615452,Princess,9.51,H,Green,Blue,Grayish,Light,SI1,Poor,Good,Poor,8.3,1.6,12.54,4.03,7.36,XTN,TN,EL,Orange,White,Slight,HRD,527320,Borderline,2021-02-07
+857307580,Radiant,17.56,H,Black,Orange,Brownish,Very Light,I3,Good,Good,Very Good,2.1,6.5,13.42,3.18,13.37,STK,STK,VS,Blue,White,Very Strong,IGI,1247385,No,2011-12-15
+108412589,Round,3.9,D,Gray,Blue,Grayish,Faint,IF,Fair,Good,Excellent,0.6,8.6,9.13,12.43,16.87,XTN,M,S,White,Blue,Faint,HRD,880822,Yes,2022-07-13
+693571760,Radiant,13.02,H,Other,Purple,Pinkish,Fancy Light,VS1,Excellent,Excellent,Poor,4.4,5.0,7.74,3.23,15.71,M,TK,L,Blue,White,Very Slight,HRD,469994,No,2008-01-11
+376617965,Heart,12.07,M,Orange,Gray,Orangey,Very Light,I3,Poor,Fair,Poor,3.3,8.6,15.79,11.77,16.16,M,STN,S,White,White,Medium,IGI,829819,Yes,2017-07-29
+426933268,Radiant,4.03,L,Red,Blue,Orangey,Fancy Light,I2,Very Good,Very Good,Poor,4.9,3.6,10.51,15.31,13.79,STK,TK,N,Orange,Blue,Very Slight,HRD,1196903,Yes,2006-04-02
+901431541,Princess,6.77,M,Brown,Gray,Purplish,Fancy Vivid,I1,Poor,Fair,Very Good,7.5,6.1,14.91,6.77,3.11,VTK,XTK,VL,White,Blue,Very Strong,GIA,1290754,Yes,2005-08-05
+808554761,Round,5.08,H,Purple,Gray,Brownish,Fancy Deep,SI2,Fair,Fair,Poor,6.3,8.1,13.6,8.92,7.45,TK,M,VS,Blue,Green,Faint,IGI,1268013,Borderline,2011-07-02
+657759737,Cushion Modified,6.23,D,Purple,Gray,Yellowish,Very Light,SI2,Fair,Very Good,Poor,7.3,1.5,5.12,6.27,10.2,TN,TN,SL,Yellow,Blue,Slight,HRD,376120,Yes,2011-02-14
+783427829,Cushion,13.06,L,Yellow,Gray,Pinkish,Fancy Dark,SI3,Fair,Fair,Fair,6.3,4.8,8.09,7.1,12.58,VTK,M,M,Orange,Green,Strong,IGI,737608,No,2015-10-05
+194324508,Pear,17.78,K,Brown,Chameleon,Yellowish,Fancy Deep,VVS1,Good,Fair,Very Good,8.8,8.8,6.8,13.92,15.68,VTN,VTN,M,White,Blue,Medium,HRD,463311,E1,2014-10-22
+708447190,Marquise,13.48,D,Blue,Green,Brownish,Fancy Light,VS1,Very Good,Fair,Very Good,9.5,3.7,13.74,11.18,6.57,M,STN,L,Yellow,Blue,Very Slight,GIA,475244,Yes,2019-02-02
+369994766,Cushion Modified,16.95,F,Red,Orange,Brownish,Very Light,I2,Very Good,Poor,Poor,6.5,1.3,16.24,9.68,9.23,XTK,STN,L,Blue,Green,Very Strong,HRD,474036,No,2005-07-28
+283604142,Pear,11.49,J,Green,Yellow,Pinkish,Very Light,VS2,Very Good,Excellent,Fair,3.8,3.8,14.82,16.12,15.58,STK,STK,VS,White,Yellow,Medium,IGI,139786,E1,2007-04-17
+315715325,Radiant,9.45,I,Brown,Yellow,Purplish,Light,I3,Good,Very Good,Good,0.5,8.3,8.11,11.92,11.14,VTN,XTK,SL,Orange,Orange,Strong,GIA,189016,E1,2012-09-28
+155199425,Oval,18.5,G,Green,Green,Brownish,Fancy Deep,VS2,Fair,Excellent,Very Good,3.5,1.4,4.4,6.3,16.4,STN,TK,VL,Blue,Yellow,Very Slight,IGI,355344,E1,2011-03-02
+185023867,Heart,14.54,D,Green,Purple,Brownish,Fancy Vivid,VVS1,Very Good,Poor,Fair,4.4,6.6,16.38,11.95,15.1,VTN,STN,SL,Orange,Yellow,Faint,HRD,709473,Yes,2006-09-29
+150511105,Marquise,6.62,E,Purple,Orange,Orangey,Faint,SI1,Fair,Fair,Poor,2.3,7.5,9.52,14.68,15.28,XTK,TN,SL,Green,White,Slight,HRD,296554,Yes,2006-07-02
+642632398,Radiant,14.69,J,Orange,Yellow,Greenish,Light,VVS2,Fair,Excellent,Poor,0.3,0.7,9.43,13.17,7.37,VTK,STN,EL,White,Orange,Strong,IGI,1165075,E1,2018-04-17
+418639040,Round,5.34,M,Pink,Other,Pinkish,Fancy Intense,SI1,Excellent,Excellent,Good,3.7,3.6,13.07,14.42,8.28,M,M,VS,Green,Orange,Very Strong,GIA,1434512,No,2005-02-19
+603427265,Pear,0.32,J,Yellow,Other,Orangey,Fancy,SI2,Very Good,Poor,Poor,2.9,0.6,4.96,6.37,3.71,XTN,TN,L,White,Orange,Medium,GIA,394763,Borderline,2021-04-23
+348323467,Marquise,7.13,J,Black,Green,Pinkish,Light,VS1,Poor,Fair,Fair,9.3,1.7,12.22,14.21,3.48,XTN,XTN,SL,Orange,White,Very Slight,HRD,736012,Yes,2013-04-02
+447025495,Cushion Modified,5.7,K,Green,Other,Pinkish,Fancy,I1,Very Good,Excellent,Excellent,0.6,9.2,8.12,16.46,4.17,VTK,STK,VL,White,Orange,Medium,IGI,211533,Yes,2022-01-21
+880069638,Pear,19.08,F,Pink,Purple,Greenish,Fancy Intense,I3,Excellent,Poor,Good,1.5,9.4,15.46,15.88,6.67,VTK,XTK,EL,Blue,Orange,Strong,IGI,1221726,Borderline,2020-02-24
+362560959,Round,15.3,I,Yellow,Chameleon,Greenish,Fancy Vivid,SI2,Poor,Good,Poor,0.7,3.7,13.13,12.75,15.13,TN,XTN,SL,Green,Blue,Very Slight,IGI,731968,Borderline,2016-09-21
+687385498,Cushion Modified,19.35,E,Pink,Black,Grayish,Light,I1,Poor,Fair,Poor,2.5,5.3,15.33,10.3,5.82,STK,VTN,S,Blue,White,Faint,HRD,1127059,Yes,2017-12-25
+575438258,Round,17.64,E,Brown,Red,Greenish,Fancy Light,VVS1,Excellent,Very Good,Excellent,0.3,1.9,9.69,12.37,2.9,VTK,VTN,N,Blue,Green,Faint,IGI,1057756,E1,2005-02-21
+436095820,Oval,11.95,E,Brown,Red,Yellowish,Fancy Dark,IF,Fair,Very Good,Poor,6.2,5.6,14.7,7.45,16.85,VTN,STN,VS,Blue,Green,Faint,GIA,1239115,E1,2006-02-16
+555988660,Round,1.13,I,Gray,Yellow,Pinkish,Faint,VS1,Poor,Fair,Excellent,7.3,1.4,4.56,12.08,8.58,TK,M,EL,Green,Yellow,Very Strong,HRD,655074,E1,2021-04-11
+917961814,Round,14.01,H,Black,Brown,Yellowish,Very Light,I1,Very Good,Very Good,Fair,1.1,8.4,6.81,4.87,6.77,XTN,VTK,S,Yellow,Green,Slight,IGI,606022,Borderline,2011-01-18
+890061507,Princess,2.99,I,Brown,Purple,Grayish,Faint,VVS1,Excellent,Very Good,Fair,9.0,0.9,15.77,16.83,6.12,TK,VTN,N,Yellow,Blue,Slight,IGI,638119,Borderline,2012-09-29
+430255925,Round,2.08,M,Pink,Brown,Brownish,Fancy Intense,VVS2,Poor,Poor,Poor,0.2,0.3,17.01,3.03,5.03,STN,TK,N,Yellow,White,Faint,HRD,137012,No,2020-09-17
+452840764,Round,0.3,E,Orange,Orange,Purplish,Fancy Vivid,VVS2,Poor,Very Good,Fair,6.7,8.6,10.28,16.27,5.4,TN,VTK,M,Yellow,Green,Medium,IGI,1001909,Borderline,2005-12-02
+515943224,Oval,15.14,D,Yellow,Brown,Purplish,Very Light,VS1,Fair,Poor,Excellent,0.4,5.0,9.13,14.14,12.44,XTK,STN,N,Blue,White,Very Slight,HRD,380922,E1,2020-11-13
+901151008,Heart,4.0,I,Chameleon,Green,Orangey,Fancy Light,VVS2,Fair,Excellent,Poor,1.0,8.3,6.65,3.01,12.18,STN,XTN,N,Orange,Green,Very Slight,IGI,1119101,Yes,2006-11-30
+276424632,Princess,11.35,K,Chameleon,Orange,Orangey,Fancy Light,IF,Poor,Fair,Good,9.5,7.3,9.55,5.37,9.16,XTK,STK,VS,Blue,White,Medium,HRD,1154151,Borderline,2004-02-07
+534802016,Marquise,10.12,M,Red,Other,Brownish,Fancy Dark,I1,Poor,Fair,Poor,0.4,0.2,5.46,14.54,7.07,XTK,STK,L,Yellow,Yellow,Very Slight,HRD,90671,E1,2017-06-14
+345739369,Round,6.59,M,Pink,Orange,Yellowish,Fancy Light,I3,Excellent,Good,Good,8.0,0.0,9.76,5.18,12.76,VTK,TK,N,White,Green,Faint,HRD,1074039,Yes,2021-09-23
+333700796,Oval,3.32,H,Brown,Other,Grayish,Fancy,VS1,Good,Very Good,Excellent,9.9,0.4,6.53,11.98,13.91,XTK,M,EL,Orange,Orange,Strong,IGI,451470,Borderline,2011-06-17
+731705481,Pear,0.59,I,Blue,Red,Purplish,Fancy,SI1,Poor,Fair,Fair,6.4,1.0,5.16,4.76,14.35,TK,TN,SL,Green,Blue,Medium,HRD,1395260,Yes,2006-01-08
+969528787,Asscher,9.17,D,Red,Other,Greenish,Very Light,VS2,Fair,Very Good,Excellent,3.3,4.1,4.81,4.12,13.8,VTK,XTN,M,Blue,White,Medium,GIA,905224,E1,2003-12-08
+636844683,Princess,12.63,L,Chameleon,Other,Greenish,Very Light,VS1,Excellent,Good,Fair,7.1,4.8,4.74,4.98,16.38,STK,TN,M,White,White,Strong,IGI,141642,E1,2023-05-03
+360740316,Radiant,10.39,G,Orange,Gray,Orangey,Fancy Vivid,SI2,Very Good,Very Good,Good,7.8,2.9,12.19,8.88,14.62,VTN,TN,VL,Green,Orange,Strong,IGI,1048156,No,2022-02-05
+429424388,Pear,6.03,D,Purple,Purple,Greenish,Fancy Vivid,VVS2,Very Good,Very Good,Excellent,5.7,2.5,15.16,13.93,8.97,STK,STN,VL,Yellow,Blue,Slight,HRD,531123,E1,2017-07-10
+561219490,Heart,14.09,M,Black,Other,Brownish,Fancy Light,SI1,Very Good,Poor,Excellent,7.0,3.1,4.09,9.35,14.9,VTN,STK,VL,Blue,Green,Very Slight,IGI,589299,No,2016-11-17
+414903946,Cushion,18.38,K,Black,Chameleon,Greenish,Fancy Deep,SI1,Good,Poor,Very Good,6.6,2.5,15.13,14.58,3.1,STN,TK,M,Green,White,Strong,HRD,24886,Yes,2008-11-24
+112228290,Radiant,5.92,G,Orange,Purple,Purplish,Fancy Light,VVS2,Fair,Excellent,Fair,2.8,2.7,6.89,12.56,9.35,STN,XTN,VS,White,Orange,Medium,GIA,1374842,E1,2014-05-21
+144445627,Pear,10.48,J,Black,Blue,Orangey,Fancy Dark,I3,Good,Good,Fair,5.6,7.2,6.19,4.53,6.13,XTN,STK,VL,Green,White,Strong,GIA,183117,Yes,2022-03-24
+711270391,Heart,4.71,L,Black,Purple,Brownish,Light,VVS1,Very Good,Very Good,Excellent,1.9,2.1,3.77,16.01,4.87,STN,M,M,Green,Blue,Very Strong,HRD,391060,E1,2009-10-25
+761349486,Princess,14.09,D,Other,Blue,Grayish,Very Light,SI2,Good,Fair,Very Good,4.3,5.3,15.56,11.41,17.02,VTK,XTK,EL,Blue,White,Slight,IGI,209315,No,2011-03-19
+440548615,Princess,9.55,I,Pink,Brown,Yellowish,Fancy Deep,VS1,Poor,Poor,Poor,8.1,4.1,7.56,4.73,12.06,M,TN,N,White,Orange,Very Slight,HRD,1267753,No,2018-07-30
+253441002,Radiant,12.39,E,Blue,Gray,Orangey,Very Light,VS2,Excellent,Excellent,Poor,1.7,5.0,16.44,9.3,3.43,TK,VTN,SL,Yellow,White,Medium,HRD,113776,Yes,2015-02-22
+261239688,Oval,9.13,F,Blue,Orange,Grayish,Very Light,SI3,Excellent,Good,Poor,9.8,5.1,7.74,6.09,6.81,VTN,TK,N,Yellow,White,Slight,GIA,297419,No,2018-12-27
+324698597,Cushion Modified,4.76,F,Chameleon,Purple,Orangey,Faint,SI1,Good,Very Good,Very Good,3.0,5.0,13.73,16.81,11.18,STK,M,L,Blue,Orange,Very Slight,GIA,122039,No,2006-06-17
+568659193,Marquise,10.66,E,Orange,Blue,Orangey,Very Light,I1,Poor,Poor,Poor,5.5,3.0,5.45,6.11,11.96,M,XTN,S,Yellow,Green,Strong,HRD,1239150,E1,2022-01-03
+760078761,Heart,16.9,J,Orange,Red,Orangey,Light,VVS1,Excellent,Good,Excellent,0.4,4.4,3.55,10.79,8.38,VTK,TN,SL,Blue,White,Slight,HRD,208187,Yes,2021-06-13
+770028463,Cushion,2.92,I,Black,Pink,Grayish,Fancy Vivid,I3,Very Good,Poor,Poor,0.9,5.2,5.65,16.66,12.71,M,XTK,VL,Orange,Orange,Slight,GIA,1414792,E1,2004-05-26
+979410749,Heart,11.0,I,Brown,Gray,Yellowish,Fancy Vivid,I1,Excellent,Good,Very Good,1.2,1.4,2.9,8.47,4.88,VTN,TN,L,Green,Orange,Very Slight,HRD,583800,No,2010-07-26
+622380307,Emerald,11.9,J,Black,Black,Brownish,Fancy Deep,VS2,Very Good,Very Good,Poor,5.4,5.4,12.67,7.38,15.58,VTK,XTK,VS,Green,Blue,Medium,IGI,187812,Borderline,2006-08-21
+382246706,Heart,12.76,J,Other,Blue,Orangey,Fancy Deep,SI1,Good,Poor,Good,5.5,6.3,9.49,10.1,3.61,XTN,VTK,VS,Blue,Blue,Medium,IGI,1043981,Borderline,2007-05-22
+443627186,Radiant,18.22,G,Purple,Yellow,Grayish,Fancy Dark,VS2,Fair,Fair,Fair,4.1,7.3,10.34,16.16,4.29,M,VTN,SL,White,White,Slight,GIA,1127290,Borderline,2006-12-30
+659549890,Emerald,12.32,E,Black,Pink,Orangey,Fancy Dark,I2,Fair,Very Good,Excellent,5.2,3.4,7.35,9.17,7.7,STN,TK,N,Yellow,Orange,Slight,GIA,270233,Yes,2015-05-05
+431077657,Cushion,9.96,L,Gray,Orange,Greenish,Fancy,SI2,Very Good,Very Good,Good,4.0,3.7,10.21,10.48,12.14,XTN,XTK,S,Blue,Yellow,Very Strong,IGI,1047592,Yes,2005-06-18
+291459804,Emerald,1.02,D,Orange,Black,Grayish,Fancy,SI3,Very Good,Good,Very Good,5.1,6.0,16.85,5.62,10.9,XTK,XTN,L,Orange,Yellow,Strong,IGI,988672,No,2013-05-28
+528990534,Oval,2.8,J,Purple,Gray,Grayish,Fancy,VVS1,Very Good,Good,Excellent,6.8,5.0,11.24,15.76,8.1,M,TK,VL,Yellow,Yellow,Very Slight,HRD,1372836,E1,2005-10-03
+513060658,Round,18.35,J,Gray,Red,Purplish,Fancy,I3,Very Good,Poor,Fair,3.4,1.4,8.91,5.9,15.69,VTN,STK,N,Yellow,Blue,Very Strong,IGI,489473,Borderline,2009-03-19
+755921885,Round,5.73,F,Orange,Purple,Grayish,Fancy Vivid,I1,Good,Excellent,Excellent,4.5,3.5,5.35,6.07,10.68,M,VTK,SL,Orange,Orange,Strong,IGI,1079928,E1,2003-12-15
+174707687,Marquise,13.5,L,Yellow,Orange,Brownish,Fancy Vivid,SI1,Very Good,Good,Excellent,7.9,6.7,14.12,7.3,11.48,TK,STN,VS,Green,Yellow,Very Strong,GIA,803572,No,2005-02-21
+328511039,Asscher,1.7,K,Purple,Chameleon,Yellowish,Fancy Deep,VVS2,Good,Good,Very Good,1.3,0.2,13.3,3.57,15.95,TN,STK,S,White,Yellow,Very Slight,IGI,1443741,No,2006-12-31
+672074802,Cushion Modified,11.18,E,Gray,Black,Pinkish,Fancy,VVS1,Fair,Very Good,Good,6.0,8.1,9.06,10.5,14.54,VTN,TK,VS,Orange,White,Faint,GIA,1101803,Borderline,2010-02-28
+194589931,Pear,8.23,G,Orange,Red,Brownish,Faint,VVS2,Very Good,Excellent,Poor,5.0,2.4,15.86,10.36,15.18,XTK,XTN,L,White,Orange,Very Strong,HRD,1153364,No,2014-05-09
+894872285,Oval,7.33,M,Green,Pink,Brownish,Faint,VVS1,Poor,Fair,Poor,8.1,7.1,15.93,8.56,7.09,XTK,STN,EL,Blue,Yellow,Very Strong,IGI,249759,No,2021-05-03
+990851654,Princess,6.23,E,Yellow,Blue,Purplish,Light,VS2,Fair,Very Good,Fair,2.2,0.1,16.15,3.41,6.24,STK,TN,S,Orange,Orange,Strong,HRD,1179179,E1,2010-01-08
+938043707,Round,2.55,I,Green,Purple,Brownish,Fancy Dark,SI1,Excellent,Very Good,Excellent,4.2,6.0,11.8,4.33,5.57,STK,XTN,N,Blue,Blue,Faint,GIA,125615,No,2009-09-25
+377111973,Heart,13.59,H,Black,Pink,Yellowish,Fancy Vivid,IF,Poor,Very Good,Fair,8.7,5.7,15.65,8.63,15.86,VTN,TK,VL,Orange,White,Faint,HRD,326344,Borderline,2011-11-07
+226140729,Heart,15.9,L,Chameleon,Red,Purplish,Fancy Intense,I2,Good,Excellent,Good,4.8,0.2,13.94,11.22,5.19,TN,VTK,M,Green,Green,Very Strong,IGI,668338,No,2006-05-03
+401039506,Emerald,1.61,J,Purple,Green,Orangey,Fancy,I1,Excellent,Very Good,Very Good,8.4,6.1,15.52,10.97,6.33,M,TN,N,White,Orange,Strong,IGI,1015791,Yes,2016-04-27
+258330291,Pear,4.97,H,Black,Other,Grayish,Fancy Intense,VS2,Poor,Excellent,Excellent,1.4,2.2,3.61,12.13,10.51,XTN,VTK,M,Blue,White,Faint,GIA,710857,E1,2022-01-01
+520104749,Round,16.17,I,Blue,Blue,Greenish,Fancy,IF,Good,Fair,Poor,6.3,3.7,7.28,6.94,12.14,VTN,VTN,VS,Orange,White,Faint,HRD,931510,Yes,2015-04-25
+614695916,Pear,7.52,K,Other,Other,Pinkish,Fancy Dark,VVS1,Good,Poor,Excellent,4.7,6.3,6.11,5.04,6.92,M,M,VS,Green,Yellow,Very Strong,GIA,842875,E1,2014-05-01
+840274369,Marquise,13.94,F,Yellow,Purple,Pinkish,Fancy Intense,VVS2,Excellent,Very Good,Excellent,7.8,1.0,12.38,14.79,9.8,TK,XTN,S,White,Green,Very Slight,GIA,377708,No,2014-08-15
+685479577,Asscher,13.33,D,Brown,Black,Greenish,Fancy Deep,VS1,Poor,Fair,Good,8.8,9.2,8.37,11.71,13.19,VTK,VTK,N,White,Green,Medium,GIA,710887,No,2011-05-01
+493041111,Emerald,4.34,M,Red,Orange,Purplish,Fancy Dark,VVS2,Very Good,Poor,Very Good,1.3,4.9,3.0,12.47,13.19,VTN,XTK,SL,White,Yellow,Medium,HRD,64353,Borderline,2016-05-28
+533779794,Round,7.93,J,Green,Other,Yellowish,Fancy Deep,VVS2,Fair,Fair,Excellent,7.7,9.4,5.67,10.86,15.42,VTN,TN,VL,Yellow,White,Slight,HRD,158400,E1,2004-07-31
+867017654,Emerald,1.71,D,Blue,Orange,Purplish,Fancy Dark,I2,Very Good,Fair,Poor,0.2,2.9,10.05,14.69,4.05,STK,STN,S,Blue,Green,Very Strong,IGI,1137529,E1,2023-03-30
+332554243,Asscher,17.68,I,Red,Orange,Brownish,Fancy Deep,SI3,Excellent,Fair,Excellent,8.0,2.7,13.09,9.24,7.59,TK,TK,EL,Blue,Yellow,Slight,IGI,1294561,E1,2010-04-05
+153880696,Radiant,10.88,M,Other,Brown,Yellowish,Fancy Light,SI2,Good,Poor,Good,2.2,3.3,4.88,5.85,13.98,TK,XTN,VL,Yellow,Orange,Medium,HRD,1025824,Borderline,2017-06-13
+823170424,Emerald,3.95,M,Yellow,Orange,Brownish,Fancy,I2,Excellent,Good,Fair,6.9,1.6,5.36,14.28,11.52,TN,STN,S,Green,White,Faint,IGI,1440865,Yes,2010-02-12
+212198312,Oval,0.35,D,Gray,Gray,Greenish,Fancy Deep,I3,Poor,Good,Poor,9.3,2.2,8.15,7.51,16.8,VTN,STK,M,Green,White,Faint,GIA,335173,Yes,2021-05-28
+255530567,Radiant,13.96,D,Purple,Gray,Brownish,Fancy Light,SI1,Poor,Excellent,Very Good,2.3,9.2,7.94,7.03,16.48,XTK,TK,SL,White,Blue,Strong,IGI,488642,No,2008-04-13
+609162926,Cushion,13.09,E,Gray,Other,Yellowish,Light,I3,Fair,Good,Poor,1.5,4.8,13.65,13.3,5.12,TN,XTK,VS,Blue,Blue,Faint,GIA,1181681,Borderline,2012-02-08
+411421793,Heart,13.5,K,Brown,Red,Brownish,Fancy Intense,I2,Excellent,Excellent,Very Good,6.3,4.2,4.07,3.42,8.22,M,VTK,VL,Yellow,Blue,Very Slight,HRD,568100,Borderline,2020-08-04
+834602245,Round,16.8,G,Purple,Black,Orangey,Fancy Light,VVS2,Excellent,Good,Poor,5.3,7.6,6.34,8.02,16.45,TN,M,VS,Blue,Yellow,Very Slight,IGI,26011,Borderline,2010-06-02
+246633955,Heart,17.22,H,Gray,Purple,Brownish,Fancy,SI3,Fair,Fair,Excellent,1.5,2.4,11.55,7.41,14.49,XTN,STN,S,Yellow,Yellow,Very Strong,GIA,1343509,Yes,2017-02-09
+502927258,Cushion,16.7,D,Brown,Gray,Grayish,Fancy Dark,I3,Good,Excellent,Poor,7.4,3.3,15.03,14.87,8.84,TN,TN,M,Blue,Blue,Medium,GIA,24856,Yes,2016-02-12
+593079898,Pear,17.09,H,Purple,Green,Brownish,Fancy Light,VVS2,Very Good,Fair,Good,3.0,4.7,5.45,16.67,4.96,VTN,STK,N,Blue,Green,Strong,IGI,1311098,Borderline,2022-04-13
+444068635,Asscher,15.6,D,Chameleon,Blue,Yellowish,Light,VVS1,Very Good,Good,Poor,7.7,7.6,3.35,4.43,5.85,TK,M,S,Blue,White,Very Strong,GIA,1397581,E1,2014-07-17
+514672150,Asscher,10.96,M,Orange,Chameleon,Pinkish,Fancy Light,SI1,Good,Excellent,Very Good,3.0,3.5,4.8,15.72,11.06,TK,TN,EL,Orange,Yellow,Strong,GIA,1245281,Borderline,2017-04-03
+963100618,Princess,2.09,M,Purple,Brown,Greenish,Fancy,VS2,Fair,Good,Poor,3.6,5.0,11.36,13.85,15.61,M,M,S,Yellow,Blue,Faint,IGI,408227,No,2019-07-21
+415591895,Princess,8.97,F,Gray,Brown,Greenish,Faint,I3,Fair,Fair,Good,3.6,6.9,3.86,9.34,4.76,VTN,STN,M,White,Green,Very Strong,IGI,1286279,Yes,2023-06-01
+630646160,Radiant,15.14,F,Other,Red,Brownish,Very Light,SI3,Poor,Fair,Fair,7.4,7.1,10.4,16.28,12.6,STN,STN,EL,Blue,Blue,Very Slight,HRD,680581,E1,2020-11-03
+901134336,Pear,17.62,K,Red,Other,Yellowish,Fancy Vivid,I3,Excellent,Good,Good,2.7,8.8,14.68,11.02,8.34,XTK,STK,EL,Orange,Green,Medium,HRD,910187,E1,2010-12-07
+845615065,Emerald,13.72,E,Black,Orange,Yellowish,Fancy Intense,I2,Very Good,Very Good,Good,6.6,3.7,7.69,9.93,13.79,XTN,TN,SL,Green,White,Faint,GIA,810801,E1,2005-09-17
+622159145,Marquise,4.33,K,Purple,Black,Orangey,Fancy Deep,SI3,Very Good,Good,Poor,2.0,6.9,3.08,6.92,12.31,M,STK,EL,White,White,Slight,HRD,542242,Yes,2022-12-14
+709126589,Round,10.7,G,Pink,Gray,Greenish,Fancy Light,SI2,Poor,Excellent,Good,9.6,5.5,13.19,4.91,3.03,VTK,M,VL,Yellow,Yellow,Very Slight,IGI,1332300,E1,2014-12-20
+290574784,Radiant,3.64,G,Blue,Black,Grayish,Faint,VS2,Fair,Excellent,Fair,7.8,9.4,11.78,13.18,14.18,M,TN,M,Blue,Yellow,Very Slight,HRD,210747,Yes,2020-08-21
+682042133,Princess,4.7,M,Black,Brown,Orangey,Fancy Light,I1,Fair,Fair,Very Good,0.4,7.8,7.58,8.85,3.74,TK,TK,S,Green,Yellow,Very Slight,IGI,1270606,E1,2016-03-14
+551266893,Round,12.38,L,Red,Chameleon,Orangey,Fancy Light,I3,Poor,Very Good,Fair,9.4,1.4,11.57,8.71,4.54,XTK,VTN,SL,Yellow,Blue,Very Slight,HRD,593981,Borderline,2016-10-13
+953200205,Princess,16.53,D,Blue,Yellow,Orangey,Fancy Intense,SI3,Fair,Good,Poor,9.0,8.2,15.26,5.36,13.83,VTN,M,S,Blue,Orange,Medium,IGI,1118118,Yes,2014-08-13
+999933636,Cushion,9.38,L,Orange,Black,Brownish,Fancy Vivid,IF,Excellent,Excellent,Good,5.2,6.1,16.98,4.58,12.84,XTN,VTK,EL,Orange,Orange,Strong,GIA,1081574,Yes,2015-05-04
+937935217,Princess,12.25,J,Yellow,Pink,Orangey,Very Light,SI1,Fair,Very Good,Fair,2.2,2.9,2.98,3.16,9.13,XTN,XTK,EL,Yellow,Yellow,Strong,IGI,929725,Borderline,2021-02-13
+233616639,Cushion,10.28,L,Red,Purple,Brownish,Light,SI1,Very Good,Good,Excellent,1.1,5.1,8.13,12.09,4.85,VTK,TK,SL,White,Yellow,Very Strong,IGI,802384,No,2006-02-01
+638349388,Oval,12.75,K,Purple,Red,Yellowish,Fancy Light,VS2,Fair,Poor,Good,7.9,4.5,4.73,12.88,6.39,M,VTN,VL,White,Blue,Very Slight,IGI,6335,Yes,2016-10-27
+140817620,Heart,6.96,K,Blue,Chameleon,Pinkish,Very Light,SI2,Poor,Fair,Poor,7.2,3.4,3.1,4.05,11.66,XTK,TN,S,Yellow,White,Faint,GIA,20334,Borderline,2005-01-09
+761527428,Cushion Modified,5.45,M,Green,Yellow,Brownish,Fancy Intense,VS2,Very Good,Poor,Fair,3.7,3.8,16.64,8.11,13.51,TN,M,EL,Yellow,Green,Strong,IGI,1138787,No,2017-07-12
+559793281,Marquise,2.79,H,Green,Gray,Greenish,Fancy Deep,VS1,Poor,Poor,Good,3.3,5.7,11.25,14.21,8.76,XTK,TK,SL,White,Green,Very Slight,HRD,1007818,E1,2004-09-02
+516637345,Round,8.84,M,Green,Blue,Purplish,Very Light,I1,Fair,Very Good,Fair,7.8,7.0,15.91,13.4,12.64,XTN,VTK,L,White,Orange,Medium,IGI,1079998,Borderline,2018-10-18
+196121438,Marquise,16.94,G,Pink,Orange,Yellowish,Fancy Intense,SI3,Fair,Good,Fair,3.5,8.5,9.6,12.33,13.22,TK,STK,L,Yellow,Green,Very Slight,IGI,913377,Yes,2005-03-02
+183452369,Radiant,18.16,D,Green,Black,Purplish,Faint,IF,Poor,Fair,Good,7.1,6.7,6.87,15.38,5.41,XTN,TK,EL,Blue,Orange,Slight,HRD,280219,E1,2022-03-06
+960898929,Cushion Modified,1.34,M,Red,Yellow,Orangey,Faint,SI1,Very Good,Fair,Good,2.4,2.2,11.02,3.7,7.22,STK,VTN,VL,Yellow,White,Very Slight,HRD,236805,Borderline,2015-10-16
+784325576,Asscher,17.23,J,Black,Purple,Brownish,Faint,I1,Good,Very Good,Fair,9.7,1.2,10.36,7.87,9.04,TK,M,EL,Blue,Yellow,Faint,IGI,1307603,E1,2004-10-03
+500783118,Cushion Modified,11.45,D,Blue,Pink,Yellowish,Very Light,I3,Good,Poor,Excellent,2.7,8.8,9.9,14.21,3.64,VTK,STK,L,White,Orange,Slight,IGI,894516,Yes,2010-04-29
+581786755,Marquise,15.0,F,Red,Purple,Purplish,Fancy Dark,IF,Poor,Poor,Excellent,8.4,5.2,15.5,12.62,8.88,TK,XTK,SL,Yellow,Orange,Strong,IGI,270337,No,2020-05-25
+419284883,Pear,3.17,D,Black,Blue,Purplish,Fancy Light,SI1,Fair,Fair,Good,4.0,2.8,7.99,14.56,13.89,VTN,STK,N,Green,Green,Slight,HRD,687754,Yes,2020-07-10
+618161284,Pear,8.57,E,Yellow,Pink,Orangey,Very Light,VS2,Very Good,Fair,Poor,3.3,3.3,10.39,3.97,13.49,XTK,XTK,L,White,White,Very Strong,HRD,557083,Borderline,2007-11-04
+929439187,Oval,6.06,H,Green,Chameleon,Greenish,Fancy Light,I1,Very Good,Poor,Excellent,8.7,0.6,4.45,8.27,8.95,VTN,TK,N,Yellow,Blue,Medium,HRD,1165616,No,2013-05-06
+182886346,Princess,6.3,L,Yellow,Brown,Yellowish,Fancy,SI3,Poor,Fair,Fair,4.5,3.6,13.13,9.92,8.93,STN,M,VL,Green,Yellow,Slight,GIA,227978,E1,2006-10-23
+147706552,Emerald,15.42,G,Brown,Gray,Brownish,Light,VVS1,Very Good,Very Good,Excellent,7.4,3.7,6.01,7.43,6.24,XTN,XTK,N,Orange,Blue,Very Strong,IGI,1396408,E1,2010-02-13
+150538175,Marquise,3.49,M,Brown,Other,Brownish,Very Light,VS1,Fair,Fair,Very Good,8.5,0.7,10.85,3.6,3.51,STN,STN,L,White,Green,Medium,GIA,276930,No,2015-12-23
+485219728,Princess,11.75,G,Orange,Blue,Brownish,Faint,SI2,Excellent,Excellent,Very Good,4.2,8.5,10.38,8.47,9.67,XTN,XTK,SL,Yellow,Blue,Strong,HRD,330015,No,2015-08-22
+215913937,Radiant,18.42,I,Pink,Pink,Greenish,Light,VS2,Good,Poor,Poor,8.5,9.3,12.65,12.05,15.73,M,TN,EL,Yellow,Green,Medium,HRD,46884,Borderline,2016-06-17
+458156810,Princess,17.05,J,Orange,Orange,Pinkish,Fancy,VS1,Fair,Poor,Fair,7.4,1.1,12.6,5.24,4.26,TK,VTK,VL,White,Yellow,Faint,IGI,905381,No,2023-07-11
+549259103,Heart,7.33,E,Other,Blue,Brownish,Fancy Intense,VS2,Very Good,Fair,Excellent,1.8,7.7,10.56,4.73,9.64,M,M,VL,Green,Blue,Very Strong,GIA,773780,Yes,2011-04-11
+458507133,Asscher,17.1,M,Chameleon,Brown,Pinkish,Fancy Light,SI3,Very Good,Good,Excellent,8.8,2.4,5.8,10.07,10.64,XTK,XTN,N,Yellow,Blue,Very Slight,IGI,142186,E1,2007-01-07
+269799285,Emerald,4.02,E,Pink,Brown,Grayish,Fancy Deep,VVS2,Good,Good,Fair,3.6,8.0,16.5,9.84,14.87,M,VTK,VS,Green,Green,Faint,IGI,1181115,Borderline,2008-05-22
+265974881,Asscher,8.85,G,Yellow,Red,Purplish,Fancy Vivid,VVS1,Very Good,Very Good,Good,1.9,2.8,11.56,14.02,13.81,VTK,STK,M,Yellow,Green,Faint,HRD,120429,E1,2004-10-09
+116977081,Emerald,0.27,E,Black,Red,Grayish,Fancy,VVS1,Excellent,Excellent,Good,3.0,0.8,12.38,11.32,9.66,VTN,XTK,S,Blue,Green,Very Strong,GIA,499256,No,2014-09-10
+726654450,Princess,7.37,E,Pink,Yellow,Pinkish,Fancy Light,I3,Good,Poor,Fair,1.7,4.2,3.11,6.83,11.53,STK,TK,VS,Orange,Blue,Strong,HRD,26400,No,2006-08-24
+850748778,Marquise,17.71,M,Gray,Blue,Grayish,Light,VS2,Very Good,Very Good,Excellent,9.6,3.8,11.96,9.26,4.46,VTK,M,S,Orange,Blue,Slight,GIA,1100009,Borderline,2015-11-11
+650162992,Pear,17.34,K,Black,Purple,Brownish,Fancy Intense,I3,Excellent,Very Good,Excellent,6.6,3.1,15.93,15.15,8.42,TK,M,M,Yellow,Orange,Slight,GIA,585195,Borderline,2019-09-23
+632981191,Cushion Modified,17.74,J,Other,Gray,Grayish,Very Light,I3,Very Good,Fair,Excellent,0.3,3.7,16.2,4.24,12.93,STK,STN,SL,Yellow,Blue,Very Slight,IGI,744989,No,2006-05-13
+949006030,Pear,13.54,M,Blue,Yellow,Purplish,Faint,VS1,Excellent,Fair,Very Good,3.4,3.4,7.07,8.89,7.07,TK,VTK,EL,Green,Yellow,Very Slight,IGI,412364,E1,2022-07-17
+803231209,Princess,5.75,L,Black,Pink,Brownish,Fancy,IF,Poor,Very Good,Fair,2.0,2.9,14.18,4.86,7.22,STK,STN,SL,Orange,White,Strong,IGI,239941,E1,2015-07-05
+638565019,Emerald,6.31,D,Red,Purple,Brownish,Fancy Deep,IF,Poor,Very Good,Very Good,7.1,6.6,6.46,8.72,12.92,VTK,VTN,SL,White,White,Very Strong,IGI,737112,E1,2011-02-10
+283103598,Heart,14.24,G,Purple,Blue,Brownish,Very Light,I2,Excellent,Very Good,Excellent,0.4,5.7,3.18,13.79,8.2,VTK,VTN,S,Yellow,Yellow,Very Strong,HRD,408668,No,2009-02-12
+197243694,Marquise,6.65,G,Green,Gray,Yellowish,Light,I3,Poor,Very Good,Good,5.7,5.6,5.56,5.14,2.86,STN,TN,L,Orange,White,Faint,IGI,1235922,Borderline,2003-10-23
+316305128,Round,12.44,H,Black,Other,Brownish,Fancy Vivid,SI2,Very Good,Good,Poor,2.0,4.7,10.22,16.11,5.08,STN,XTN,SL,Yellow,Blue,Faint,GIA,997146,E1,2012-08-13
+221687513,Princess,0.29,M,Green,Blue,Yellowish,Fancy Dark,SI2,Good,Very Good,Fair,0.3,2.1,6.72,15.69,6.46,VTN,VTK,VS,Blue,Green,Slight,GIA,743442,E1,2021-07-07
+172527148,Asscher,18.1,K,Other,Blue,Yellowish,Very Light,SI2,Poor,Fair,Very Good,4.2,1.5,9.14,7.08,12.72,TN,STN,N,Orange,Green,Strong,IGI,268183,Yes,2004-03-12
+530926873,Cushion,10.8,M,Orange,Gray,Brownish,Fancy Dark,VVS2,Excellent,Good,Very Good,4.4,2.4,7.85,3.36,6.83,VTN,VTN,M,Yellow,Orange,Very Strong,HRD,976256,Borderline,2009-11-10
+953035309,Cushion,0.94,M,Yellow,Pink,Orangey,Very Light,VS2,Fair,Fair,Very Good,1.7,6.2,15.65,17.05,10.68,TN,M,EL,Green,Green,Faint,GIA,1296870,Yes,2006-05-17
+714089193,Asscher,14.85,L,Purple,Gray,Brownish,Light,SI2,Poor,Poor,Fair,5.3,9.3,9.8,14.81,16.09,XTK,VTK,EL,Orange,Orange,Medium,HRD,1249653,No,2009-07-05
+286867062,Princess,3.49,I,Gray,Green,Greenish,Light,I2,Excellent,Very Good,Fair,0.7,4.0,16.78,13.59,3.76,M,VTK,EL,White,Green,Slight,HRD,1445855,Yes,2009-02-02
+318521859,Cushion,10.77,D,Blue,Black,Brownish,Fancy,IF,Good,Poor,Fair,4.9,6.6,7.48,11.53,15.06,VTN,XTN,M,Green,Blue,Strong,GIA,419063,E1,2009-10-25
+275458175,Oval,7.5,G,Other,Orange,Yellowish,Fancy Light,I2,Excellent,Fair,Poor,1.5,2.3,4.46,16.77,9.06,VTK,XTK,S,White,Green,Strong,IGI,604091,No,2012-11-22
+242515513,Heart,4.98,I,Yellow,Brown,Yellowish,Fancy Dark,I2,Excellent,Poor,Good,2.1,2.0,11.25,6.8,9.85,STN,XTK,EL,White,Orange,Very Slight,HRD,1000432,E1,2015-11-24
+375963706,Radiant,7.75,F,Green,Purple,Purplish,Fancy Vivid,IF,Very Good,Excellent,Good,8.6,0.8,5.8,14.28,12.6,M,STN,SL,Blue,White,Slight,IGI,989453,Yes,2004-08-15
+747519647,Marquise,16.44,M,Yellow,Blue,Yellowish,Fancy Deep,I3,Very Good,Very Good,Fair,0.3,9.3,12.96,6.82,5.13,XTN,XTK,N,Blue,Orange,Slight,IGI,61883,E1,2016-02-07
+260681778,Oval,6.19,D,Yellow,Chameleon,Pinkish,Fancy,VS1,Very Good,Very Good,Excellent,2.5,0.2,7.1,6.31,5.57,M,XTK,N,Blue,Green,Strong,GIA,1414326,Borderline,2017-05-27
+987323969,Princess,18.74,I,Black,Purple,Grayish,Fancy Intense,I1,Very Good,Poor,Good,3.0,5.7,13.39,13.43,8.24,VTK,VTN,N,Yellow,Blue,Medium,IGI,783041,E1,2020-03-30
+419417520,Emerald,0.98,E,Other,Brown,Purplish,Fancy Intense,I3,Poor,Fair,Excellent,2.4,9.1,15.71,4.97,3.64,STK,STN,VS,Yellow,White,Very Slight,HRD,1162467,No,2011-06-05
+684562886,Princess,0.91,L,Purple,Yellow,Pinkish,Faint,SI2,Poor,Good,Poor,8.7,7.1,4.83,10.85,4.44,M,XTN,N,Yellow,White,Medium,HRD,889042,No,2004-03-26
+369003321,Asscher,5.57,D,Orange,Gray,Purplish,Fancy Dark,VVS2,Good,Excellent,Poor,1.5,7.9,9.37,16.47,13.25,M,STK,S,Green,Orange,Very Strong,HRD,1015796,Borderline,2007-11-17
+502020977,Emerald,17.13,H,Gray,Orange,Purplish,Very Light,VVS2,Excellent,Very Good,Fair,8.5,8.5,15.31,12.51,5.63,XTK,XTK,L,Blue,Blue,Very Slight,IGI,370208,Yes,2005-08-09
+528054634,Cushion,9.09,I,Black,Orange,Brownish,Light,VVS2,Excellent,Good,Excellent,0.6,3.0,6.89,15.95,12.12,TN,STK,EL,Blue,Yellow,Slight,HRD,1238812,Borderline,2020-08-29
+743044729,Pear,4.25,H,Red,Gray,Orangey,Fancy Intense,I1,Very Good,Very Good,Poor,5.5,9.3,15.96,6.88,13.77,TK,STN,S,Blue,White,Very Slight,HRD,622993,No,2015-08-17
+356813994,Asscher,16.52,J,Yellow,Blue,Brownish,Fancy Light,SI1,Poor,Very Good,Excellent,6.3,2.8,10.66,7.91,14.82,STN,XTN,N,Orange,Yellow,Very Strong,HRD,741491,Yes,2017-09-15
+650507121,Heart,11.43,K,Orange,Brown,Yellowish,Faint,SI1,Very Good,Excellent,Very Good,7.7,5.1,7.27,15.49,6.56,STK,TN,VL,Orange,Green,Medium,HRD,454496,Borderline,2008-02-04
+802835187,Asscher,14.37,F,Purple,Gray,Pinkish,Very Light,I3,Fair,Good,Good,0.0,3.2,16.45,9.19,12.9,TN,XTN,VL,Green,Blue,Medium,HRD,1304713,E1,2009-09-06
+404978273,Cushion Modified,5.83,G,Gray,Green,Brownish,Faint,VS2,Poor,Poor,Poor,1.3,1.2,5.25,12.62,16.2,VTK,STK,N,Green,Green,Faint,GIA,315977,No,2014-10-26
+867726912,Cushion,11.86,J,Brown,Pink,Greenish,Fancy Intense,VVS2,Good,Excellent,Good,7.5,2.1,3.67,14.78,14.51,STK,VTK,S,Yellow,Blue,Faint,IGI,385668,E1,2004-04-16
+937419039,Emerald,5.88,H,Orange,Red,Yellowish,Very Light,VS2,Very Good,Very Good,Very Good,7.3,4.6,7.01,2.89,7.15,VTN,STK,VS,Yellow,Yellow,Faint,GIA,1364503,Yes,2009-10-08
+411709602,Asscher,2.17,D,Orange,Green,Brownish,Fancy Light,I3,Fair,Excellent,Poor,8.5,6.2,7.76,12.66,13.26,STN,XTK,L,White,Orange,Very Strong,IGI,1327392,Yes,2022-03-02
+134913078,Radiant,4.82,F,Brown,Brown,Brownish,Fancy,I1,Good,Excellent,Very Good,4.1,2.3,13.22,15.35,12.0,VTN,STN,VS,Yellow,Yellow,Very Slight,IGI,332764,E1,2005-12-18
+257860492,Pear,4.88,F,Green,Purple,Orangey,Light,VS2,Good,Poor,Poor,2.1,5.7,15.08,14.8,5.33,M,XTN,SL,Blue,Yellow,Faint,HRD,910592,Yes,2017-07-18
+975344358,Emerald,10.67,M,Pink,Blue,Orangey,Fancy Deep,SI2,Very Good,Good,Good,8.0,3.6,8.81,3.55,10.53,TN,VTN,S,Green,Blue,Very Slight,GIA,122642,E1,2011-01-22
+256683961,Pear,1.32,M,Chameleon,Red,Orangey,Fancy,SI3,Poor,Poor,Good,9.7,4.4,10.79,5.91,8.21,VTN,STK,VS,Yellow,Blue,Very Strong,HRD,1218096,Borderline,2014-02-13
+385146114,Princess,2.99,J,Yellow,Orange,Greenish,Light,VS2,Good,Poor,Good,2.0,5.9,8.75,9.91,7.66,XTK,VTN,VS,Blue,White,Medium,HRD,1278071,No,2013-08-24
+402997632,Pear,11.24,L,Gray,Green,Yellowish,Fancy Light,SI2,Excellent,Very Good,Excellent,0.6,4.6,16.64,9.43,14.28,VTK,XTN,M,Blue,Blue,Very Slight,IGI,865338,No,2019-01-14
+797414946,Princess,8.55,K,Other,Blue,Purplish,Light,IF,Fair,Very Good,Excellent,4.0,7.2,7.28,10.8,13.85,STK,TK,M,White,Yellow,Very Slight,HRD,67213,Borderline,2004-03-06
+915667312,Pear,5.49,D,Yellow,Blue,Purplish,Very Light,VS2,Excellent,Poor,Very Good,6.5,4.3,14.31,3.64,9.34,VTK,TK,EL,Orange,Yellow,Slight,HRD,1205812,No,2021-01-25
+632277233,Cushion,9.06,J,Green,Purple,Grayish,Fancy Deep,I1,Very Good,Excellent,Very Good,4.3,5.9,12.78,14.84,11.85,STN,TN,EL,Blue,Orange,Strong,IGI,161732,Borderline,2011-10-22
+131007242,Cushion,16.84,J,Brown,Chameleon,Orangey,Fancy Light,I3,Very Good,Excellent,Very Good,8.7,1.3,4.25,11.37,16.83,TK,STK,SL,Orange,Orange,Slight,IGI,1080693,No,2012-09-12
+151188062,Heart,3.48,D,Other,Green,Grayish,Fancy Vivid,I2,Good,Very Good,Excellent,4.2,9.2,13.07,12.41,4.84,XTN,STN,VL,Orange,Green,Slight,HRD,815648,No,2019-06-08
+993295094,Princess,6.19,I,Chameleon,Other,Purplish,Fancy Deep,VVS2,Poor,Good,Very Good,0.0,9.0,13.06,7.36,15.2,STK,VTN,M,White,Orange,Faint,HRD,1242588,E1,2011-11-08
+569552811,Marquise,3.7,D,Black,Gray,Pinkish,Fancy Deep,I2,Good,Poor,Very Good,6.5,5.0,16.49,7.26,6.03,STN,TN,S,Blue,Green,Slight,HRD,538222,No,2015-01-11
+157604154,Oval,4.51,G,Yellow,Purple,Greenish,Fancy,VVS1,Poor,Very Good,Very Good,3.4,6.4,6.21,10.33,5.14,TN,XTN,N,Green,White,Very Strong,HRD,986433,No,2019-09-09
+722843104,Cushion Modified,12.86,K,Red,Orange,Yellowish,Very Light,VVS1,Good,Fair,Excellent,0.3,8.6,15.03,10.68,13.18,STN,VTK,M,White,Blue,Strong,GIA,1187657,No,2008-04-19
+525186600,Round,0.29,E,Green,Red,Grayish,Fancy,I1,Very Good,Very Good,Fair,1.5,3.4,9.87,4.91,15.4,XTK,VTK,M,Yellow,White,Strong,IGI,476738,Borderline,2008-11-03
+629110369,Heart,16.06,E,Other,Orange,Grayish,Fancy Deep,SI3,Good,Fair,Excellent,1.2,7.5,7.95,4.88,15.21,TK,TN,EL,Yellow,Orange,Slight,HRD,1415981,Yes,2007-08-16
+136980241,Marquise,16.35,J,Black,Pink,Yellowish,Fancy,I1,Fair,Very Good,Excellent,7.9,1.4,4.16,6.96,4.02,STN,TN,M,White,Green,Faint,HRD,555765,E1,2019-08-04
+369652109,Marquise,3.74,H,Red,Purple,Greenish,Fancy,IF,Good,Good,Very Good,7.8,5.0,16.33,4.99,4.84,VTN,TN,SL,Blue,Yellow,Faint,GIA,158050,E1,2007-12-05
+663757716,Cushion Modified,0.53,E,Red,Yellow,Grayish,Fancy,SI3,Poor,Excellent,Poor,9.0,7.8,9.99,3.55,14.9,TK,STN,N,Green,Orange,Strong,GIA,1051946,Yes,2012-05-26
+714932592,Emerald,18.19,K,Gray,Purple,Yellowish,Fancy Deep,I3,Poor,Good,Good,5.0,2.9,4.81,16.59,11.77,TK,VTK,M,Yellow,White,Medium,HRD,221602,Yes,2005-06-03
+138783870,Round,15.74,I,Other,Red,Purplish,Fancy Light,VVS2,Good,Excellent,Very Good,5.5,6.5,8.45,15.84,10.98,TN,TN,EL,White,Green,Strong,HRD,837611,Borderline,2004-06-29
+636582247,Heart,15.22,K,Chameleon,Orange,Pinkish,Fancy,SI3,Good,Good,Poor,1.2,2.6,14.86,15.98,13.11,TN,STK,S,White,Green,Strong,HRD,1199496,No,2020-05-20
+216577409,Princess,6.0,J,Orange,Brown,Pinkish,Fancy Dark,SI3,Fair,Good,Fair,8.4,2.4,12.87,14.32,8.82,XTK,TN,SL,Orange,White,Slight,HRD,180649,Borderline,2016-09-13
+315199956,Heart,18.89,K,Orange,Purple,Brownish,Fancy Light,VVS2,Very Good,Poor,Excellent,4.7,6.6,14.76,10.69,10.18,XTK,VTN,L,Orange,Yellow,Very Slight,HRD,419157,No,2018-11-04
+457566290,Emerald,8.38,K,Blue,Orange,Greenish,Fancy Intense,SI1,Very Good,Excellent,Fair,6.2,5.9,13.49,6.77,4.05,VTK,STN,L,Orange,Blue,Very Strong,GIA,1209586,Yes,2021-09-26
+177533508,Emerald,17.47,J,Red,Gray,Grayish,Fancy Dark,SI2,Excellent,Fair,Poor,5.2,8.4,17.06,11.28,2.93,TK,XTN,N,Orange,Yellow,Slight,IGI,309736,Yes,2005-02-27
+238666352,Oval,6.21,I,Chameleon,Blue,Orangey,Very Light,VVS1,Good,Fair,Very Good,1.5,5.7,3.01,4.49,8.78,TN,STK,L,Blue,White,Slight,HRD,160370,E1,2014-08-04
+763597056,Heart,16.81,F,Red,Pink,Orangey,Light,SI3,Excellent,Fair,Good,8.3,8.1,8.31,13.11,7.84,STK,VTK,N,Orange,Blue,Strong,HRD,1199789,No,2013-02-20
+454365343,Marquise,1.23,L,Blue,Gray,Greenish,Fancy Light,I1,Fair,Poor,Excellent,1.5,5.5,4.82,3.72,13.96,XTK,XTN,SL,Green,Orange,Very Strong,GIA,227317,Yes,2019-06-15
+719955244,Heart,10.52,I,Gray,Brown,Yellowish,Very Light,VS2,Very Good,Excellent,Fair,9.7,7.9,11.76,9.42,11.04,XTN,M,EL,White,Yellow,Slight,IGI,712292,E1,2022-07-31
+179466203,Asscher,0.38,L,Pink,Blue,Grayish,Light,SI1,Fair,Good,Fair,1.2,1.7,9.85,16.24,7.98,STK,XTK,S,Orange,Blue,Medium,IGI,94522,Borderline,2013-09-29
+706508539,Emerald,10.17,D,Brown,Green,Yellowish,Faint,VVS1,Fair,Fair,Excellent,8.5,2.5,11.77,10.01,14.91,VTK,TK,S,White,Green,Very Strong,HRD,631637,Yes,2016-09-22
+312767473,Round,6.7,K,Pink,Purple,Grayish,Fancy Light,VVS1,Excellent,Fair,Excellent,4.6,2.5,13.56,4.17,15.09,XTK,VTN,S,Green,Green,Very Slight,HRD,552086,E1,2006-08-31
+822856776,Heart,0.36,F,Other,Black,Yellowish,Fancy Deep,SI3,Poor,Good,Fair,5.0,5.7,5.21,10.82,13.76,VTK,M,VL,Yellow,Blue,Faint,IGI,1421002,No,2003-09-04
+826725033,Pear,16.69,G,Yellow,Purple,Yellowish,Very Light,SI2,Very Good,Poor,Fair,7.6,7.1,13.59,7.01,9.17,XTN,STK,SL,Green,Green,Slight,GIA,1108202,E1,2004-10-07
+326280291,Cushion Modified,15.08,J,Yellow,Pink,Brownish,Fancy Vivid,VVS1,Excellent,Poor,Good,1.0,7.2,7.79,13.62,16.84,VTK,XTK,S,Orange,White,Very Strong,HRD,685988,E1,2014-12-22
+678792347,Pear,6.51,M,Pink,Black,Orangey,Light,I2,Good,Poor,Very Good,9.7,6.0,7.93,4.17,15.24,TN,XTN,VL,Yellow,Yellow,Slight,IGI,1426930,No,2010-04-11
+247530821,Princess,2.39,J,Black,Yellow,Purplish,Fancy Deep,SI3,Excellent,Good,Poor,1.7,1.6,4.59,6.76,9.02,XTK,XTK,M,Yellow,White,Very Slight,IGI,652992,E1,2017-04-25
+949741629,Princess,10.95,E,Red,Orange,Yellowish,Fancy Deep,VVS2,Poor,Very Good,Good,5.1,4.1,3.07,16.83,4.85,TK,VTK,VS,Blue,Orange,Faint,GIA,824788,Borderline,2012-09-26
+140230161,Cushion,16.56,E,Pink,Gray,Pinkish,Fancy Light,I2,Good,Poor,Very Good,4.7,5.9,8.84,16.04,4.3,VTN,VTK,VL,Blue,Blue,Very Strong,IGI,315989,E1,2016-04-06
+558779560,Round,6.52,I,Other,Chameleon,Orangey,Fancy Intense,IF,Poor,Poor,Good,9.9,4.1,7.1,10.32,7.27,TK,STK,EL,Green,Yellow,Strong,HRD,1108882,Borderline,2016-08-21
+229043400,Emerald,4.81,H,Purple,Purple,Greenish,Fancy,SI2,Poor,Good,Very Good,9.8,6.8,5.1,6.98,15.7,TN,TK,EL,Green,White,Very Strong,HRD,272270,Borderline,2023-02-11
+368558610,Heart,7.32,K,Green,Red,Grayish,Fancy Intense,SI3,Fair,Fair,Very Good,6.8,6.0,10.44,13.91,5.99,XTK,XTK,SL,Green,Yellow,Very Slight,HRD,175685,E1,2011-05-13
+729745824,Oval,15.65,J,Green,Black,Purplish,Fancy Vivid,VS1,Poor,Very Good,Excellent,0.2,6.7,8.23,16.4,3.89,STK,M,VS,White,Orange,Faint,HRD,1201558,Yes,2016-07-13
+560580810,Princess,8.7,M,Black,Chameleon,Purplish,Fancy,IF,Excellent,Poor,Good,9.1,3.1,5.05,10.97,6.51,TK,M,N,Blue,Green,Very Slight,HRD,319421,No,2015-05-20
+303354550,Princess,0.12,H,Other,Other,Pinkish,Faint,I3,Excellent,Fair,Excellent,7.2,1.3,12.65,6.25,5.37,STN,STK,N,Green,White,Strong,IGI,4614,E1,2020-10-08
+590101874,Cushion,2.85,K,Orange,Blue,Brownish,Fancy Intense,SI2,Very Good,Fair,Very Good,0.5,5.0,7.06,4.46,5.83,TN,VTN,N,Yellow,Orange,Slight,HRD,1278722,Borderline,2011-07-27
+356526332,Pear,0.41,M,Red,Black,Grayish,Very Light,VS1,Very Good,Poor,Excellent,7.1,0.8,5.5,3.27,7.58,XTK,STN,S,Blue,Yellow,Faint,IGI,723315,E1,2019-07-30
+655402769,Cushion Modified,8.67,L,Gray,Brown,Pinkish,Fancy Vivid,VVS2,Good,Poor,Very Good,6.5,6.6,8.41,16.28,12.79,STK,M,S,Yellow,Green,Strong,GIA,1449168,Yes,2011-08-04
+307323131,Oval,12.97,D,Pink,Pink,Brownish,Fancy Intense,VVS1,Excellent,Very Good,Excellent,1.8,6.4,8.4,15.88,14.97,XTK,STK,VL,Blue,Blue,Faint,HRD,939063,E1,2004-11-20
+441073770,Asscher,14.56,I,Gray,Purple,Pinkish,Light,VS1,Poor,Good,Fair,9.1,0.8,3.4,5.41,6.68,VTK,TK,VS,Green,White,Very Strong,GIA,1386856,E1,2006-08-18
+585245754,Round,9.23,F,Red,Purple,Brownish,Fancy Intense,SI1,Very Good,Fair,Fair,4.0,7.7,8.01,13.21,13.58,VTK,TK,N,Green,Blue,Slight,HRD,362763,Yes,2004-12-14
+899316686,Pear,14.55,J,Green,Purple,Pinkish,Faint,SI3,Very Good,Good,Fair,5.7,1.8,15.07,5.49,8.36,M,TK,VL,Green,Yellow,Strong,GIA,1271756,Borderline,2020-07-06
+276171080,Oval,15.28,F,Purple,Yellow,Greenish,Fancy Intense,VS1,Good,Poor,Excellent,1.5,6.5,9.07,15.8,8.17,TK,VTN,VL,Orange,White,Very Strong,IGI,828561,Borderline,2005-10-08
+573557258,Round,17.53,I,Pink,Green,Purplish,Fancy Deep,SI2,Excellent,Excellent,Good,6.3,5.1,3.26,15.27,3.71,XTK,TK,N,Orange,Orange,Medium,GIA,1242772,Borderline,2016-03-02
+285630184,Oval,5.2,D,Brown,Chameleon,Purplish,Light,VS1,Poor,Good,Fair,5.9,8.8,10.91,6.37,8.28,XTN,XTK,M,Blue,Blue,Faint,GIA,54699,Borderline,2003-10-03
+237979143,Cushion Modified,2.75,I,Gray,Other,Orangey,Fancy Deep,SI2,Fair,Poor,Very Good,4.9,3.0,11.56,6.17,11.22,XTN,STK,EL,Blue,Yellow,Strong,GIA,395632,No,2008-04-21
+808272063,Marquise,9.19,M,Blue,Blue,Grayish,Fancy,I3,Poor,Poor,Very Good,5.8,8.1,3.63,13.59,3.96,STK,TN,VL,Green,Blue,Very Slight,IGI,438494,Borderline,2018-06-23
+298111818,Emerald,9.24,G,Green,Blue,Grayish,Fancy Intense,SI1,Poor,Excellent,Fair,5.0,6.2,4.92,8.66,4.39,XTN,XTK,S,White,Blue,Very Slight,GIA,1246257,Borderline,2011-08-16
+651002962,Heart,17.02,L,Orange,Yellow,Grayish,Fancy Dark,VS2,Fair,Poor,Excellent,8.1,3.9,11.48,13.98,12.71,VTK,VTN,L,Yellow,Yellow,Strong,IGI,221807,E1,2007-03-08
+823112557,Radiant,15.54,G,Yellow,Red,Grayish,Fancy Dark,VS2,Very Good,Good,Poor,2.0,8.3,3.19,12.26,7.52,XTK,M,L,Orange,White,Medium,IGI,14765,Yes,2007-07-12
+577767665,Radiant,9.28,G,Yellow,Black,Greenish,Fancy Vivid,IF,Fair,Very Good,Poor,5.3,5.3,6.85,11.96,3.35,XTK,XTK,EL,Blue,Blue,Slight,HRD,1441871,No,2015-05-26
+248344223,Cushion,6.91,D,Pink,Purple,Grayish,Faint,VS2,Poor,Fair,Fair,1.1,8.8,14.36,9.96,6.97,STK,XTN,L,Blue,White,Very Strong,GIA,498798,E1,2007-07-21
+514775898,Asscher,18.58,F,Orange,Purple,Brownish,Fancy,I2,Fair,Poor,Poor,5.1,3.0,10.7,11.34,14.07,TK,M,SL,White,White,Slight,IGI,206005,E1,2019-06-02
+200520340,Cushion Modified,17.4,F,Chameleon,Green,Pinkish,Light,SI1,Good,Excellent,Poor,7.8,0.7,10.48,6.62,5.89,TN,STN,M,White,Orange,Very Slight,IGI,924764,Yes,2019-12-16
+770918775,Princess,17.4,J,Pink,Green,Purplish,Fancy Light,IF,Poor,Fair,Very Good,9.8,7.5,13.47,9.82,8.08,STK,VTN,SL,Green,Yellow,Very Slight,GIA,530591,Borderline,2008-06-05
+819725832,Radiant,3.99,D,Red,Pink,Brownish,Fancy Light,SI3,Excellent,Very Good,Very Good,6.3,7.5,16.38,10.38,3.57,XTK,VTN,M,Green,Green,Strong,HRD,126896,Borderline,2012-06-07
+584054384,Radiant,1.98,M,Purple,Black,Yellowish,Faint,VVS2,Poor,Excellent,Poor,6.2,7.0,8.23,6.58,15.0,TN,STK,M,Orange,Green,Slight,HRD,554685,No,2021-04-15
+706622178,Cushion,6.28,F,Purple,Orange,Grayish,Light,VVS1,Very Good,Good,Poor,7.1,4.0,8.67,7.5,10.85,XTK,XTK,EL,Blue,White,Medium,HRD,470038,E1,2009-07-12
+108039098,Oval,3.42,H,Green,Black,Grayish,Fancy Deep,I2,Excellent,Fair,Poor,9.1,6.8,16.97,6.43,15.42,XTK,VTK,S,Blue,Blue,Very Slight,GIA,1106934,Borderline,2013-12-17
+710854761,Cushion,7.58,K,Yellow,Black,Purplish,Fancy,SI3,Poor,Poor,Excellent,9.1,6.8,7.44,14.52,4.41,STK,VTK,L,Green,Yellow,Very Strong,GIA,663313,No,2004-02-16
+724307349,Heart,13.01,I,Black,Orange,Pinkish,Fancy,SI3,Very Good,Poor,Fair,3.7,1.5,14.48,10.68,12.98,STN,M,SL,Orange,Blue,Strong,IGI,1162379,E1,2023-02-20
+283333441,Round,11.67,H,Gray,Orange,Yellowish,Fancy,VVS1,Excellent,Excellent,Fair,0.5,3.2,8.36,6.22,9.22,M,VTN,EL,Green,Green,Very Strong,IGI,1009288,Borderline,2005-02-19
+944482062,Asscher,1.08,L,Red,Purple,Greenish,Fancy Deep,SI1,Very Good,Poor,Good,6.4,9.2,11.17,15.58,3.3,STN,STK,N,White,Green,Faint,HRD,1106159,E1,2006-08-13
+808243606,Asscher,14.63,D,Other,Gray,Orangey,Fancy,IF,Very Good,Poor,Poor,2.7,2.3,4.65,8.13,3.94,STK,VTK,SL,Orange,Green,Strong,GIA,676323,E1,2016-01-31
+443958570,Heart,17.69,L,Chameleon,Blue,Brownish,Fancy Vivid,VVS2,Excellent,Excellent,Very Good,7.1,1.4,6.32,3.55,11.43,TK,XTN,VS,Orange,Blue,Very Strong,GIA,1393195,No,2015-09-11
+733173840,Cushion Modified,3.68,K,Other,Pink,Brownish,Fancy Intense,I1,Poor,Fair,Good,1.2,7.5,12.26,5.71,12.14,XTK,TN,EL,White,Orange,Very Slight,IGI,1152982,Borderline,2005-02-20
+232147821,Cushion Modified,4.83,J,Purple,Blue,Pinkish,Fancy Light,SI1,Fair,Good,Very Good,1.0,8.0,9.28,4.98,5.84,M,STN,VS,White,Yellow,Very Slight,IGI,1275887,Borderline,2011-10-16
+213963008,Radiant,12.82,D,Yellow,Other,Greenish,Fancy,VS2,Very Good,Good,Poor,2.5,0.6,12.98,14.26,5.06,VTN,STN,EL,Yellow,Blue,Faint,IGI,106810,No,2013-06-09
+644089401,Oval,11.64,M,Orange,Yellow,Brownish,Faint,VS2,Fair,Very Good,Very Good,0.3,6.7,9.58,4.59,8.16,XTK,TN,VL,Green,White,Slight,IGI,103074,Borderline,2019-04-07
+504610932,Oval,0.67,F,Yellow,Pink,Greenish,Light,VS1,Excellent,Fair,Poor,0.2,8.9,9.92,11.17,16.47,VTN,XTN,VL,Yellow,Orange,Very Slight,IGI,687748,E1,2009-06-23
+987739761,Cushion Modified,18.49,M,Orange,Purple,Yellowish,Fancy,SI2,Poor,Excellent,Very Good,4.8,9.1,13.61,3.22,3.3,VTK,XTN,S,Orange,Yellow,Strong,GIA,143981,Borderline,2016-05-17
+254451688,Princess,9.74,H,Gray,Green,Greenish,Light,SI3,Very Good,Good,Very Good,4.2,0.5,7.45,4.16,12.37,TN,TN,SL,Green,Blue,Very Slight,HRD,1135815,No,2005-09-28
+342019201,Oval,17.79,D,Other,Red,Grayish,Fancy Dark,VVS2,Fair,Fair,Very Good,2.0,2.7,6.07,9.89,7.59,STN,XTK,SL,Yellow,Blue,Very Slight,GIA,282435,E1,2009-08-30
+856599930,Radiant,11.75,L,Other,Orange,Pinkish,Very Light,VVS1,Poor,Excellent,Excellent,2.7,3.7,8.71,6.31,9.13,XTN,TN,VL,Blue,Orange,Very Slight,IGI,247499,E1,2021-06-19
+923919497,Round,14.29,I,Chameleon,Purple,Orangey,Faint,SI2,Poor,Good,Good,9.8,9.0,11.32,11.23,5.03,VTN,TN,M,Yellow,Blue,Slight,GIA,366649,Borderline,2015-12-09
+785164351,Emerald,14.19,E,Pink,Other,Greenish,Very Light,I2,Excellent,Fair,Good,1.7,7.9,8.8,13.19,8.64,XTN,VTK,S,Blue,Green,Faint,HRD,511787,E1,2021-08-23
+468678365,Heart,10.17,I,Black,Black,Brownish,Very Light,SI2,Fair,Fair,Very Good,6.5,4.1,9.19,4.88,14.54,XTK,M,EL,Blue,White,Medium,GIA,1014869,Borderline,2021-04-20
+899772899,Asscher,11.88,I,Other,Purple,Orangey,Fancy Dark,VVS2,Good,Good,Poor,5.4,6.6,4.91,10.53,13.25,VTK,VTN,M,Yellow,Yellow,Strong,IGI,830713,No,2021-04-02
+513745315,Radiant,14.81,E,Orange,Orange,Brownish,Fancy,SI2,Very Good,Excellent,Poor,2.9,4.5,11.23,5.08,13.71,STN,VTK,N,Blue,Yellow,Very Strong,GIA,344105,No,2013-02-06
+989023639,Cushion Modified,8.92,E,Black,Gray,Greenish,Fancy Dark,VVS1,Very Good,Excellent,Fair,4.1,8.4,13.34,11.39,9.47,STK,STN,N,Blue,Yellow,Faint,GIA,246928,E1,2020-05-03
+315955565,Princess,11.6,I,Pink,Other,Grayish,Fancy Intense,SI1,Poor,Very Good,Excellent,0.5,5.9,11.01,11.52,3.65,XTK,M,M,Green,Yellow,Medium,HRD,135232,Yes,2020-12-26
+617475784,Radiant,9.81,L,Purple,Purple,Yellowish,Fancy Intense,I1,Very Good,Fair,Good,2.2,0.0,11.9,16.67,13.22,XTN,TK,S,Blue,Yellow,Strong,GIA,609820,E1,2018-03-25
+968871572,Pear,9.14,L,Orange,Blue,Brownish,Fancy Dark,SI2,Good,Fair,Fair,7.2,9.4,3.17,7.65,7.48,XTK,M,N,White,Blue,Very Strong,HRD,560876,E1,2006-07-19
+763755807,Marquise,10.77,I,Gray,Gray,Purplish,Fancy Deep,I3,Very Good,Good,Excellent,6.9,6.3,5.48,3.73,5.8,VTN,VTN,VL,White,Blue,Faint,HRD,285622,Yes,2022-11-09
+490477862,Pear,2.92,K,Black,Black,Greenish,Light,VS2,Fair,Very Good,Poor,5.9,8.1,10.3,11.53,4.98,M,M,VL,Orange,Yellow,Slight,HRD,526798,No,2014-08-30
+528042634,Princess,18.78,F,Red,Purple,Purplish,Very Light,SI3,Very Good,Poor,Very Good,1.9,6.7,5.53,7.9,14.57,VTN,M,M,White,Yellow,Very Slight,IGI,1000939,E1,2021-02-06
+431679603,Emerald,2.28,I,Yellow,Other,Orangey,Fancy Intense,VS1,Very Good,Excellent,Good,6.0,1.7,5.01,12.96,16.47,TK,STK,SL,Yellow,White,Faint,HRD,1265695,Borderline,2017-04-22
+316888550,Princess,17.75,D,Gray,Blue,Greenish,Fancy Light,VS1,Good,Very Good,Excellent,7.1,4.7,6.39,15.53,6.9,VTK,STK,S,Yellow,White,Very Slight,GIA,460789,No,2020-02-11
+469683041,Oval,14.55,J,Green,Orange,Greenish,Fancy Light,I3,Fair,Good,Very Good,4.1,6.7,13.37,3.61,4.25,TN,VTN,M,Green,Orange,Faint,HRD,897272,Borderline,2007-01-19
+163076122,Cushion Modified,6.21,D,Yellow,Brown,Brownish,Very Light,I1,Excellent,Very Good,Good,4.6,0.6,8.1,14.88,10.38,XTN,TK,N,Blue,Orange,Strong,HRD,550077,Yes,2010-03-08
+238663128,Heart,6.6,D,Gray,Yellow,Yellowish,Fancy Vivid,VVS2,Poor,Excellent,Very Good,3.0,9.0,4.2,4.66,9.46,TK,STK,N,White,Orange,Very Slight,IGI,551758,No,2010-11-14
+785083448,Oval,13.67,F,Other,Yellow,Orangey,Fancy Intense,VS2,Poor,Good,Fair,2.7,8.6,15.55,6.24,11.18,XTN,XTK,VS,Blue,Green,Medium,IGI,187933,Yes,2019-05-16
+780342609,Cushion Modified,0.52,L,Red,Black,Grayish,Fancy Deep,SI2,Very Good,Good,Fair,1.8,7.3,14.69,5.98,5.07,XTK,XTN,VL,Green,Green,Very Strong,HRD,619740,E1,2015-02-10
+893310107,Princess,16.12,D,Chameleon,Green,Grayish,Very Light,I2,Fair,Excellent,Fair,2.3,9.3,3.88,10.6,9.07,TK,XTK,VS,Orange,Blue,Slight,IGI,821192,E1,2019-02-05
+695927791,Cushion,12.67,E,Orange,Black,Purplish,Fancy Light,I3,Good,Very Good,Very Good,1.2,6.7,5.53,4.08,5.53,VTN,VTK,L,Blue,Blue,Very Slight,HRD,526958,No,2004-08-23
+610993429,Radiant,1.98,I,Yellow,Purple,Greenish,Fancy Dark,IF,Fair,Poor,Excellent,8.5,3.3,14.83,7.31,4.35,STK,STN,SL,White,Green,Faint,HRD,15485,No,2011-12-23
+692735349,Radiant,12.46,I,Orange,Gray,Pinkish,Fancy Light,SI3,Very Good,Good,Fair,8.9,5.6,12.72,7.24,8.19,XTK,STN,VS,Orange,Orange,Strong,IGI,326086,E1,2019-04-04
+773518669,Cushion Modified,0.6,E,Pink,Chameleon,Purplish,Fancy,I2,Good,Very Good,Excellent,8.1,4.3,11.46,6.63,3.7,VTN,XTK,VS,Yellow,Orange,Very Strong,HRD,798085,No,2004-05-07
+418729931,Radiant,5.89,J,Brown,Other,Pinkish,Fancy,I2,Very Good,Poor,Fair,7.4,4.2,11.32,11.04,7.44,VTN,STK,L,Yellow,Orange,Medium,HRD,1108062,Borderline,2020-06-06
+122703508,Pear,6.18,I,Gray,Pink,Yellowish,Fancy,IF,Fair,Excellent,Good,8.8,2.8,4.69,11.35,7.81,VTK,XTN,VL,Green,Yellow,Faint,IGI,285830,Borderline,2012-01-11
+420101418,Asscher,17.98,K,Blue,Black,Pinkish,Fancy Deep,SI1,Excellent,Very Good,Excellent,8.1,5.5,16.13,11.09,5.13,VTK,VTN,S,White,Orange,Faint,GIA,63906,No,2008-11-28
+436505022,Cushion Modified,5.72,F,Red,Orange,Orangey,Light,I1,Good,Poor,Good,3.2,8.1,16.44,12.96,10.08,VTK,M,SL,Orange,Orange,Faint,IGI,779651,Yes,2015-02-19
+730337235,Heart,2.4,G,Yellow,Black,Orangey,Fancy Vivid,I3,Very Good,Excellent,Excellent,4.3,5.9,10.75,10.65,16.12,XTN,TK,VS,Yellow,Orange,Very Strong,GIA,426819,Yes,2017-05-07
+151602389,Cushion Modified,3.32,E,Purple,Purple,Brownish,Fancy Deep,VS1,Very Good,Excellent,Very Good,9.2,4.3,6.16,4.24,5.45,STK,TN,M,Blue,White,Very Strong,GIA,1219274,Yes,2006-10-07
+601781243,Radiant,17.74,I,Pink,Gray,Yellowish,Light,SI2,Good,Poor,Poor,1.3,3.3,14.93,14.55,10.02,STN,TN,SL,White,Yellow,Very Slight,GIA,60080,Borderline,2003-11-10
+136885942,Emerald,6.24,D,Gray,Blue,Orangey,Fancy,SI2,Very Good,Excellent,Very Good,5.6,5.6,11.06,5.37,8.59,VTK,VTK,SL,Blue,Orange,Strong,IGI,714228,No,2004-02-13
+534302888,Heart,14.51,H,Brown,Other,Brownish,Fancy,SI3,Excellent,Excellent,Poor,5.8,4.5,15.99,16.44,4.78,TN,VTN,N,Orange,Blue,Strong,HRD,1042174,Yes,2015-11-21
+496348338,Asscher,3.93,L,Other,Chameleon,Pinkish,Fancy Vivid,VS1,Very Good,Very Good,Very Good,2.9,6.8,12.67,5.42,7.7,TK,VTN,N,Green,Blue,Medium,GIA,669167,E1,2017-05-15
+628852732,Emerald,3.01,E,Brown,Other,Purplish,Light,VVS1,Excellent,Good,Excellent,9.5,5.7,4.12,10.61,16.11,VTK,XTN,SL,Yellow,White,Very Strong,GIA,261868,E1,2006-02-19
+310832515,Asscher,12.07,H,Red,Chameleon,Brownish,Fancy,VVS1,Poor,Very Good,Poor,4.8,0.8,10.9,3.3,6.92,XTK,VTK,VL,Green,Green,Slight,HRD,1415500,Yes,2010-10-04
+542687884,Oval,14.05,H,Gray,Other,Grayish,Faint,I3,Excellent,Very Good,Good,3.6,1.2,15.79,5.76,15.69,XTN,M,L,White,Yellow,Slight,HRD,713523,Yes,2013-11-25
+500354648,Heart,0.22,D,Pink,Orange,Yellowish,Fancy Light,VVS1,Excellent,Fair,Poor,5.2,6.1,10.72,3.32,6.24,STK,VTK,EL,Green,Green,Very Slight,GIA,332,E1,2006-08-08
+599880675,Princess,17.68,E,Red,Red,Purplish,Fancy,I3,Fair,Very Good,Excellent,4.1,5.4,3.85,4.46,15.86,TN,XTK,VS,Orange,Green,Faint,HRD,597312,No,2004-06-16
+220551242,Heart,3.85,M,Purple,Red,Grayish,Fancy Dark,SI2,Fair,Poor,Very Good,4.4,8.3,14.5,10.98,16.34,STN,STK,N,Green,White,Slight,HRD,620817,Yes,2004-05-23
+251327832,Heart,12.77,D,Red,Red,Purplish,Fancy Intense,I1,Poor,Fair,Poor,9.8,3.4,15.65,10.54,14.31,XTK,XTK,M,Yellow,White,Faint,IGI,1296904,Borderline,2005-08-14
+882765230,Pear,14.66,D,Green,Brown,Brownish,Very Light,I3,Poor,Very Good,Very Good,1.2,6.3,4.23,13.98,11.63,VTK,VTN,M,White,White,Slight,IGI,980883,Borderline,2016-08-12
+728138444,Asscher,10.46,E,Pink,Blue,Orangey,Fancy Dark,SI1,Good,Good,Excellent,1.6,3.4,11.62,13.7,12.6,VTN,TK,N,Green,Orange,Very Strong,IGI,45939,Borderline,2020-03-09
+616501267,Round,15.41,E,Pink,Chameleon,Grayish,Fancy Intense,SI1,Poor,Fair,Very Good,6.1,2.9,7.7,14.15,3.93,VTK,M,L,Yellow,Yellow,Faint,GIA,623546,No,2022-03-17
+125849075,Asscher,13.8,E,Other,Yellow,Grayish,Fancy Deep,SI1,Excellent,Very Good,Very Good,2.6,7.5,10.67,10.2,8.86,VTN,TN,VS,Yellow,White,Very Slight,IGI,1054156,No,2013-03-25
+855679450,Marquise,5.67,M,Pink,Black,Grayish,Fancy Deep,SI2,Fair,Poor,Excellent,6.4,5.2,13.99,8.69,10.58,TN,VTN,M,Green,Green,Very Strong,HRD,1447980,E1,2018-06-13
+370244368,Princess,2.43,L,Orange,Red,Purplish,Fancy Deep,I3,Excellent,Fair,Good,2.3,2.3,9.91,13.55,4.8,M,XTN,VL,Yellow,Green,Very Slight,IGI,791722,No,2009-04-05
+262718836,Marquise,4.5,G,Other,Gray,Grayish,Light,VS2,Good,Excellent,Poor,5.6,8.6,9.17,13.04,9.5,STK,XTN,L,Green,Orange,Very Strong,HRD,1372737,Borderline,2017-03-08
+771611907,Round,4.65,H,Purple,Brown,Brownish,Fancy,SI2,Very Good,Good,Very Good,3.5,2.9,7.49,9.72,11.22,XTK,M,N,Green,Yellow,Medium,GIA,1185370,No,2015-01-04
+380064441,Princess,7.29,G,Yellow,Other,Yellowish,Fancy Intense,VS1,Excellent,Good,Very Good,2.4,1.9,11.2,4.69,8.46,M,STN,L,Blue,Orange,Strong,IGI,113751,Borderline,2016-10-29
+403547635,Heart,11.24,H,Green,Green,Pinkish,Fancy Deep,I2,Very Good,Very Good,Excellent,0.1,8.9,3.32,11.72,11.19,VTN,VTK,L,White,Green,Very Strong,GIA,1079749,E1,2010-09-26
+124534117,Round,1.49,H,Other,Chameleon,Greenish,Fancy Vivid,VS2,Very Good,Fair,Excellent,9.1,1.7,5.82,11.2,12.44,TN,VTK,VS,White,Green,Faint,HRD,1285996,Borderline,2006-07-16
+756430818,Oval,17.32,L,Other,Black,Purplish,Faint,VS2,Good,Good,Excellent,2.0,6.0,9.07,15.59,9.77,XTN,TN,EL,White,Yellow,Very Slight,HRD,990588,Yes,2014-03-29
+460798359,Pear,9.49,H,Black,Yellow,Brownish,Fancy,SI3,Good,Poor,Very Good,7.4,4.6,4.66,12.04,6.11,XTN,XTK,EL,Green,White,Strong,HRD,1437381,Borderline,2022-10-04
+649712701,Asscher,10.18,D,Purple,Brown,Yellowish,Fancy,VS2,Very Good,Very Good,Fair,0.8,5.5,16.41,14.16,9.24,XTN,VTN,VS,Orange,Orange,Slight,IGI,985845,No,2017-03-24
+198016211,Heart,3.87,J,Pink,Pink,Orangey,Faint,SI2,Poor,Good,Poor,0.3,3.5,7.34,7.69,5.93,STN,TN,S,Blue,Yellow,Very Strong,IGI,575172,Borderline,2008-06-09
+532907680,Oval,5.23,F,Purple,Gray,Brownish,Fancy Deep,VVS1,Poor,Excellent,Good,3.9,7.0,4.67,14.04,7.54,STN,STN,S,Green,Yellow,Strong,IGI,884579,Yes,2005-10-04
+745227938,Marquise,2.36,F,Pink,Gray,Orangey,Fancy Intense,IF,Poor,Fair,Very Good,0.3,3.4,10.43,14.11,8.78,VTN,STN,S,Yellow,Green,Very Slight,GIA,790465,No,2008-02-25
+893931811,Cushion Modified,12.64,J,Black,Green,Yellowish,Light,I3,Fair,Good,Very Good,3.6,5.8,14.08,3.2,3.97,M,XTN,S,Green,White,Very Slight,GIA,799039,No,2014-03-23
+491412669,Heart,2.77,K,Red,Gray,Pinkish,Fancy Deep,SI2,Excellent,Fair,Good,1.0,4.2,14.79,10.28,12.25,M,VTN,EL,Orange,Orange,Strong,HRD,918596,Borderline,2020-03-28
+998290807,Cushion,11.52,M,Red,Chameleon,Purplish,Fancy Vivid,I3,Poor,Good,Poor,9.6,6.1,4.26,5.34,3.92,STK,VTK,VS,White,Blue,Medium,IGI,1391262,Borderline,2007-02-06
+479178837,Cushion,18.24,K,Other,Purple,Orangey,Fancy Intense,VVS1,Excellent,Poor,Very Good,6.8,6.5,10.58,7.37,8.48,XTN,TN,EL,Green,Green,Medium,HRD,127564,Yes,2014-09-21
+962788566,Princess,4.18,M,Other,Orange,Purplish,Fancy Deep,I2,Poor,Good,Excellent,8.4,2.7,4.69,16.85,11.49,STN,XTK,EL,Green,Orange,Medium,HRD,782955,Borderline,2020-03-26
+237736494,Pear,4.86,F,Orange,Red,Grayish,Fancy Vivid,SI2,Good,Excellent,Fair,9.2,0.3,11.4,6.54,12.76,XTN,STK,L,White,Orange,Very Slight,HRD,871471,E1,2019-05-12
+247480005,Cushion,7.26,E,Chameleon,Black,Orangey,Fancy Dark,SI3,Fair,Good,Very Good,5.4,5.9,6.05,16.78,7.46,STK,VTK,VL,Blue,Green,Faint,GIA,90084,Borderline,2008-11-06
+425222404,Cushion Modified,8.34,L,Green,Pink,Orangey,Fancy Deep,I1,Excellent,Very Good,Poor,8.8,6.4,9.08,10.37,14.15,M,STK,L,Yellow,White,Very Strong,HRD,112941,E1,2015-09-11
+488286283,Emerald,0.35,H,Purple,Gray,Brownish,Fancy Intense,SI1,Excellent,Good,Good,9.5,1.2,4.1,11.53,6.42,STK,XTN,VL,White,Orange,Very Slight,GIA,730250,No,2017-10-26
+883437765,Cushion Modified,15.63,I,Black,Yellow,Greenish,Fancy Intense,VS2,Poor,Poor,Poor,0.4,2.1,6.89,10.54,7.62,VTN,M,S,White,Green,Medium,HRD,1184934,Borderline,2017-04-20
+863873347,Marquise,3.02,F,Brown,Black,Yellowish,Fancy Dark,I1,Good,Fair,Excellent,1.8,1.8,2.94,14.43,10.5,VTK,VTN,EL,Orange,Blue,Strong,IGI,1444434,Yes,2008-05-30
+787617744,Pear,6.95,G,Blue,Pink,Purplish,Light,SI2,Fair,Excellent,Good,2.0,8.9,7.32,9.8,8.71,STK,M,VL,Green,Blue,Slight,IGI,417173,Yes,2005-11-22
+229517850,Princess,1.53,K,Other,Chameleon,Brownish,Fancy Light,IF,Fair,Fair,Excellent,1.6,0.6,4.57,7.25,3.8,XTN,TN,N,Orange,Orange,Slight,IGI,1058525,No,2016-05-18
+199993423,Cushion,18.06,H,Other,Blue,Purplish,Fancy,I3,Excellent,Poor,Poor,0.1,0.3,7.41,16.3,9.81,STK,M,N,Orange,Orange,Strong,GIA,1385671,Yes,2022-12-29
+509101298,Cushion,4.85,E,Brown,Gray,Orangey,Fancy Deep,I3,Good,Fair,Fair,2.9,6.0,7.96,4.14,7.04,XTN,STN,M,Orange,Yellow,Strong,HRD,1286544,E1,2012-07-11
+988508565,Round,15.92,F,Green,Purple,Yellowish,Fancy Intense,I2,Poor,Fair,Excellent,9.1,5.3,13.21,3.9,7.63,TK,VTN,VL,Orange,Blue,Very Slight,IGI,292424,Yes,2008-05-21
+400255452,Round,3.52,I,Brown,Black,Brownish,Fancy Dark,SI1,Very Good,Very Good,Poor,6.1,3.0,4.03,11.95,4.7,STN,TK,M,Green,Orange,Very Slight,GIA,259581,Yes,2019-05-07
+540691921,Princess,4.34,L,Orange,Brown,Purplish,Fancy Dark,SI1,Poor,Good,Poor,1.3,5.8,15.06,10.0,9.79,VTN,VTN,VL,Yellow,Orange,Faint,GIA,387790,Borderline,2013-05-14
+831598653,Radiant,15.56,L,Pink,Orange,Greenish,Fancy Dark,SI1,Poor,Excellent,Fair,8.1,0.3,6.16,16.36,11.29,XTK,XTN,VS,Blue,Yellow,Medium,HRD,1430144,Yes,2023-03-06
+453944877,Cushion Modified,3.0,D,Chameleon,Gray,Yellowish,Light,SI2,Very Good,Poor,Poor,7.3,4.7,4.25,12.82,5.03,TK,VTK,VL,Blue,Green,Strong,GIA,1338659,E1,2018-08-27
+384096861,Round,18.07,G,Gray,Pink,Yellowish,Very Light,VVS1,Poor,Excellent,Excellent,0.2,0.4,3.4,14.04,15.14,TK,TK,M,Yellow,Yellow,Slight,IGI,63780,No,2017-04-09
+191884370,Cushion Modified,1.57,E,Blue,Gray,Yellowish,Light,SI1,Fair,Very Good,Poor,0.1,9.2,13.71,9.01,9.62,M,TK,L,White,Blue,Very Slight,IGI,1283867,E1,2008-04-28
+753676395,Radiant,15.94,E,Red,Gray,Pinkish,Very Light,VS1,Excellent,Fair,Good,2.2,8.5,7.37,6.99,5.49,TK,VTK,VL,Blue,Yellow,Very Slight,HRD,797676,Borderline,2006-03-13
+456939258,Oval,5.99,G,Gray,Brown,Grayish,Fancy,SI1,Poor,Very Good,Poor,0.2,9.3,10.05,11.1,5.1,XTN,TN,SL,Green,Green,Medium,HRD,1106227,Yes,2021-05-27
+379277851,Oval,1.98,L,Yellow,Other,Greenish,Faint,SI3,Very Good,Very Good,Good,2.4,6.0,16.66,9.14,14.9,TK,VTN,SL,Orange,White,Slight,IGI,420972,Yes,2012-12-16
+146100498,Cushion Modified,13.01,K,Black,Blue,Greenish,Fancy Deep,SI1,Excellent,Good,Very Good,9.4,0.4,8.7,5.09,10.92,TK,STN,S,Green,Green,Very Slight,IGI,665425,E1,2020-12-29
+373302479,Pear,13.58,I,Green,Red,Purplish,Fancy Deep,VVS2,Excellent,Poor,Fair,9.4,5.2,8.79,12.6,13.06,M,M,M,Orange,White,Strong,IGI,284185,Yes,2016-03-22
+263354254,Emerald,17.41,F,Green,Red,Greenish,Very Light,SI1,Excellent,Good,Fair,8.2,1.5,11.07,3.01,8.42,VTK,STK,S,Orange,White,Very Strong,HRD,1100649,Borderline,2012-02-26
+679804335,Oval,9.37,D,Other,Chameleon,Yellowish,Fancy Intense,VVS2,Fair,Fair,Very Good,1.2,2.5,10.76,8.18,8.69,STN,STN,L,Yellow,Orange,Faint,HRD,519981,Borderline,2008-05-22
+671331284,Heart,7.67,L,Orange,Brown,Greenish,Fancy Dark,IF,Excellent,Fair,Excellent,7.6,3.4,3.5,11.74,6.22,STN,M,M,Blue,Yellow,Slight,HRD,526101,Yes,2012-10-04
+380083930,Oval,19.07,H,Brown,Brown,Grayish,Light,I3,Fair,Very Good,Excellent,6.0,1.4,14.73,12.6,8.17,STN,TN,VL,Blue,Yellow,Medium,GIA,881390,E1,2013-10-01
+260845457,Marquise,9.92,F,Yellow,Black,Orangey,Fancy Light,I2,Excellent,Poor,Excellent,6.6,4.4,4.86,14.05,16.48,VTK,VTN,N,White,Yellow,Very Strong,IGI,337386,Yes,2004-07-24
+314504140,Princess,2.76,E,Blue,Purple,Yellowish,Faint,I1,Good,Poor,Fair,9.5,0.5,15.53,14.27,2.88,STK,VTK,S,Blue,Yellow,Very Strong,IGI,678643,Borderline,2007-07-25
+851090810,Oval,8.82,J,Other,Chameleon,Greenish,Fancy,I2,Excellent,Very Good,Poor,6.9,8.9,14.65,10.17,12.19,M,TK,VS,White,Orange,Very Strong,IGI,766876,No,2015-01-07
+851190774,Pear,0.81,K,Red,Other,Orangey,Fancy,VS2,Poor,Excellent,Excellent,6.7,7.9,16.56,4.72,9.32,M,VTK,VS,Orange,Orange,Slight,IGI,570840,Yes,2009-03-13
+443499748,Pear,11.19,K,Black,Blue,Purplish,Fancy Intense,IF,Good,Excellent,Good,0.1,6.1,16.76,8.75,12.64,VTK,VTN,S,Yellow,Yellow,Faint,IGI,1200773,E1,2019-07-31
+657969727,Cushion Modified,7.28,M,Orange,Other,Orangey,Fancy Dark,SI3,Excellent,Excellent,Poor,4.8,0.6,3.12,13.91,6.94,XTK,STN,SL,Orange,Orange,Slight,IGI,373133,No,2009-05-20
+182795938,Princess,15.92,I,Brown,Yellow,Orangey,Fancy Dark,SI1,Poor,Poor,Poor,9.2,1.0,3.95,14.78,14.08,STK,TN,L,White,Green,Faint,IGI,124640,E1,2016-07-28
+627884669,Cushion Modified,9.5,D,Purple,Blue,Purplish,Light,I2,Poor,Very Good,Excellent,6.4,1.3,5.17,14.21,12.51,XTN,TN,N,Yellow,Orange,Very Slight,GIA,540841,No,2006-08-01
+266255565,Radiant,2.0,F,Orange,Yellow,Greenish,Light,SI1,Excellent,Very Good,Excellent,9.7,2.5,17.02,12.33,5.44,VTK,XTN,M,White,White,Faint,GIA,1385340,Borderline,2004-11-20
+837924281,Cushion Modified,0.16,G,Chameleon,Black,Greenish,Light,I3,Good,Fair,Good,7.9,5.7,15.79,10.74,4.77,XTN,VTN,VS,Orange,Green,Strong,GIA,1108705,No,2008-01-04
+361107995,Pear,16.17,E,Black,Purple,Orangey,Fancy Vivid,SI1,Very Good,Excellent,Fair,4.7,2.0,4.39,12.34,11.04,VTK,TN,EL,Blue,Blue,Very Slight,GIA,464613,Yes,2011-01-23
+533668897,Asscher,7.91,D,Brown,Green,Purplish,Fancy Light,I3,Fair,Excellent,Very Good,6.8,0.1,16.19,15.84,10.37,STK,STN,VL,Blue,Yellow,Very Strong,HRD,40810,E1,2005-01-30
+400331084,Asscher,13.43,D,Red,Chameleon,Yellowish,Very Light,SI1,Poor,Excellent,Fair,3.4,5.5,16.7,7.42,16.22,XTK,M,N,Yellow,Green,Slight,GIA,432096,E1,2019-07-11
+656463456,Princess,1.43,L,Blue,Chameleon,Purplish,Fancy Deep,VS1,Very Good,Very Good,Fair,9.7,4.0,11.67,4.02,5.32,TK,XTK,S,Yellow,White,Strong,IGI,702255,Yes,2018-06-19
+111025347,Cushion,8.28,K,Pink,Chameleon,Greenish,Very Light,I2,Poor,Very Good,Good,8.6,1.7,16.09,5.43,7.35,TK,TK,S,Blue,Orange,Very Slight,GIA,110370,Yes,2012-03-04
+348075579,Marquise,15.01,L,Pink,Black,Pinkish,Fancy Deep,I1,Poor,Excellent,Poor,6.7,7.5,15.5,10.53,11.14,VTK,M,M,Blue,White,Very Strong,GIA,207930,E1,2019-06-08
+335936197,Cushion,2.63,D,Orange,Green,Orangey,Fancy Intense,SI2,Excellent,Very Good,Fair,9.1,7.7,16.27,4.89,11.99,XTN,M,S,White,Orange,Very Slight,IGI,1112613,Borderline,2023-03-31
+319977624,Oval,5.33,E,Blue,Pink,Brownish,Fancy Deep,I1,Good,Fair,Excellent,1.8,1.4,14.7,6.24,6.59,XTN,VTK,N,Green,Yellow,Medium,HRD,718816,No,2022-05-16
+727515969,Emerald,3.37,M,Brown,Pink,Brownish,Fancy Light,SI3,Very Good,Excellent,Poor,0.7,0.1,16.21,8.96,15.47,TK,VTN,N,Yellow,Blue,Medium,IGI,508137,Yes,2008-03-31
+531102564,Heart,13.79,E,Purple,Blue,Pinkish,Faint,VS2,Excellent,Poor,Excellent,2.4,2.5,13.46,6.38,4.16,XTK,STK,S,White,Yellow,Very Strong,HRD,1075711,E1,2022-05-23
+202341192,Oval,17.9,E,Green,Brown,Greenish,Faint,VS2,Poor,Very Good,Very Good,6.3,1.4,5.85,12.24,8.52,STK,M,SL,White,Green,Very Slight,IGI,174058,No,2015-07-28
+234827922,Radiant,9.64,G,Other,Yellow,Greenish,Fancy Light,SI1,Very Good,Good,Excellent,9.0,2.8,12.1,14.42,4.66,VTN,TN,VS,Yellow,Green,Slight,IGI,394207,No,2014-07-23
+687918820,Pear,6.86,I,Brown,Brown,Orangey,Fancy Deep,I3,Poor,Fair,Excellent,6.4,8.1,14.62,9.32,3.31,XTK,STK,SL,Blue,Green,Faint,IGI,986424,Borderline,2010-02-04
+494359828,Radiant,12.47,G,Blue,Green,Pinkish,Fancy Intense,VVS2,Very Good,Very Good,Very Good,1.4,8.2,14.52,4.05,10.21,TN,TK,N,White,Green,Strong,HRD,234779,No,2017-04-08
+749059973,Heart,10.89,E,Green,Blue,Yellowish,Fancy,I3,Very Good,Poor,Very Good,5.5,3.8,12.46,15.58,14.86,M,VTN,VS,Green,Yellow,Very Slight,GIA,419449,E1,2023-03-18
+970337490,Marquise,7.58,J,Chameleon,Yellow,Grayish,Fancy Light,I2,Poor,Good,Fair,9.3,5.7,5.96,7.53,6.44,TK,XTK,SL,Orange,Orange,Faint,GIA,825239,No,2006-12-30
+460317298,Marquise,16.36,L,Yellow,Pink,Pinkish,Very Light,VVS2,Fair,Good,Poor,1.0,5.7,7.89,11.31,10.52,M,M,VL,Yellow,White,Faint,GIA,461437,No,2016-02-10
+520109167,Princess,5.49,I,Blue,Yellow,Grayish,Fancy Vivid,SI3,Very Good,Fair,Excellent,5.1,4.3,9.34,13.21,14.2,TN,VTN,VL,Blue,Green,Very Slight,HRD,1161196,Borderline,2021-04-21
+652989843,Emerald,13.34,M,Chameleon,Orange,Orangey,Very Light,I2,Very Good,Good,Very Good,2.3,7.8,10.31,11.74,3.93,STK,STK,M,Blue,Yellow,Medium,IGI,1179981,E1,2009-06-24
+870903495,Radiant,13.58,K,Pink,Purple,Grayish,Fancy,SI3,Excellent,Excellent,Excellent,0.4,3.1,5.32,3.01,6.4,XTK,M,VL,Blue,Blue,Faint,HRD,536616,E1,2003-12-19
+388115392,Cushion Modified,8.51,L,Black,Gray,Orangey,Light,VVS2,Very Good,Poor,Excellent,3.2,7.9,8.73,11.79,13.02,XTN,TN,M,Blue,Yellow,Very Strong,IGI,1318726,Borderline,2020-06-06
+246632789,Radiant,13.23,L,Other,Gray,Yellowish,Fancy Light,SI2,Very Good,Good,Excellent,3.3,4.7,8.56,11.53,9.97,M,TN,SL,Yellow,Blue,Very Slight,IGI,556197,E1,2022-12-20
+965135239,Emerald,12.21,K,Black,Blue,Yellowish,Fancy Intense,I1,Good,Very Good,Very Good,0.5,8.3,11.64,3.43,11.54,VTK,VTN,L,Orange,White,Slight,HRD,726928,E1,2015-02-28
+456820443,Pear,5.93,L,Orange,Red,Pinkish,Fancy Deep,VS1,Excellent,Very Good,Excellent,4.3,4.8,4.6,7.85,9.23,XTK,M,VS,White,Green,Faint,GIA,112706,Borderline,2021-11-15
+472693151,Round,14.65,E,Chameleon,Pink,Orangey,Fancy Dark,VVS2,Poor,Very Good,Excellent,7.0,2.0,8.04,12.97,6.22,TK,STK,EL,Blue,Green,Medium,HRD,1364297,No,2003-10-27
+982084608,Marquise,10.94,F,Chameleon,Black,Yellowish,Light,I1,Fair,Poor,Very Good,7.5,5.0,7.35,9.41,4.87,TK,VTK,VS,Yellow,Blue,Very Strong,IGI,288707,Borderline,2005-01-23
+225511464,Princess,0.59,H,Orange,Orange,Yellowish,Fancy Light,I2,Poor,Good,Fair,3.1,8.2,6.96,13.07,16.24,STK,M,M,Green,White,Faint,HRD,137853,No,2015-12-22
+934774253,Marquise,11.33,E,Orange,Black,Brownish,Faint,I3,Excellent,Excellent,Excellent,6.1,8.9,11.6,11.38,3.26,VTN,STK,S,Orange,White,Slight,GIA,459195,Yes,2022-06-18
+501851327,Cushion Modified,18.86,F,Blue,Blue,Purplish,Fancy Intense,VS1,Excellent,Good,Fair,2.8,8.3,11.66,7.55,14.21,M,TK,M,Green,Orange,Very Strong,HRD,1206780,No,2014-02-25
+640787141,Pear,0.14,J,Brown,Green,Purplish,Fancy Light,SI3,Excellent,Good,Good,5.4,6.4,8.47,15.97,8.49,STN,M,M,Blue,Blue,Very Slight,IGI,200772,Yes,2003-11-21
+177515714,Round,10.58,J,Chameleon,Brown,Grayish,Fancy Intense,SI3,Very Good,Excellent,Fair,2.1,5.3,12.01,6.96,15.01,STN,VTN,EL,Blue,Orange,Faint,IGI,336575,Yes,2011-01-27
+423618858,Radiant,3.12,F,Black,Gray,Yellowish,Light,I3,Poor,Very Good,Poor,1.3,7.6,3.33,12.93,12.08,STK,TK,VL,Green,Green,Medium,HRD,669628,No,2022-11-28
+231774817,Cushion Modified,6.64,L,Orange,Chameleon,Orangey,Very Light,I1,Very Good,Fair,Good,9.4,2.1,10.16,7.25,11.71,TN,TN,L,Green,White,Slight,IGI,493006,Yes,2006-04-26
+739478473,Marquise,17.58,L,Gray,Red,Greenish,Fancy Deep,VVS1,Fair,Poor,Very Good,7.7,2.7,11.31,7.85,4.85,VTN,TN,L,Yellow,Blue,Slight,HRD,1138888,E1,2006-04-16
+727702690,Princess,6.81,K,Orange,Pink,Orangey,Fancy Light,VVS1,Fair,Fair,Poor,5.2,9.2,16.35,15.63,15.28,XTN,TN,VL,Green,Blue,Very Strong,IGI,1107729,Yes,2005-06-23
+776322545,Heart,11.85,D,Brown,Yellow,Orangey,Light,VS2,Poor,Poor,Fair,0.0,1.7,10.36,6.94,12.44,XTN,STN,EL,Blue,White,Slight,HRD,321872,Borderline,2020-09-19
+591765464,Emerald,5.94,K,Black,Purple,Pinkish,Fancy Intense,SI1,Fair,Excellent,Fair,5.5,8.9,8.42,8.1,6.09,M,XTN,VS,Green,Green,Very Strong,HRD,206440,No,2018-09-10
+144803167,Cushion,12.07,F,Purple,Other,Purplish,Fancy Dark,IF,Excellent,Very Good,Excellent,5.8,5.3,8.51,17.0,9.75,TK,TN,S,White,Orange,Medium,IGI,1380164,No,2011-09-26
+161808743,Cushion Modified,12.68,D,Brown,Brown,Yellowish,Fancy Light,I2,Poor,Very Good,Fair,4.8,4.7,6.75,13.07,15.4,XTK,TN,L,Yellow,Green,Medium,GIA,1420104,Borderline,2007-11-07
+872635602,Princess,3.2,I,Purple,Green,Pinkish,Fancy Intense,SI2,Fair,Fair,Good,9.3,5.7,7.02,15.65,8.35,STK,VTN,SL,White,White,Very Slight,HRD,1064586,E1,2023-04-08
+813119464,Emerald,8.41,M,Other,Pink,Orangey,Fancy Light,IF,Poor,Very Good,Excellent,6.9,7.4,6.41,16.45,15.34,TN,XTK,S,Blue,Green,Slight,GIA,1062787,Yes,2020-10-02
+620552070,Pear,5.52,G,Yellow,Pink,Pinkish,Fancy Dark,SI3,Good,Very Good,Very Good,4.5,1.4,15.37,10.23,10.8,XTN,STK,N,Orange,Yellow,Slight,GIA,880818,Borderline,2012-05-05
+559015488,Cushion,5.07,D,Pink,Black,Brownish,Fancy Deep,VVS1,Good,Fair,Fair,5.1,0.4,4.37,6.06,10.7,STN,VTK,S,Orange,Orange,Slight,IGI,499654,Borderline,2017-04-30
+758061032,Pear,2.57,M,Pink,Yellow,Purplish,Fancy Deep,VS2,Poor,Poor,Poor,1.8,8.4,16.77,5.94,15.91,STN,XTK,M,Green,Blue,Slight,HRD,1325939,E1,2015-12-13
+657807705,Emerald,14.5,E,Gray,Green,Grayish,Fancy Light,SI1,Very Good,Good,Excellent,2.7,2.6,8.33,8.48,10.88,XTN,XTK,VS,Yellow,Yellow,Very Strong,GIA,367591,E1,2015-02-24
+976278314,Round,15.05,J,Purple,Yellow,Grayish,Faint,SI3,Good,Excellent,Fair,4.9,3.7,13.25,3.32,16.26,TK,STK,N,Yellow,Orange,Faint,HRD,1045642,No,2023-06-14
+606139208,Asscher,7.29,M,Black,Chameleon,Brownish,Fancy Vivid,VS2,Excellent,Fair,Poor,2.8,0.2,13.95,14.48,12.83,XTK,M,VS,Blue,Blue,Very Strong,IGI,1141787,E1,2019-02-22
+815343279,Cushion,1.03,F,Pink,Red,Brownish,Faint,SI3,Good,Very Good,Fair,4.1,8.0,14.96,11.81,5.09,TK,STN,VS,Yellow,Blue,Very Slight,GIA,1069330,Borderline,2006-06-27
+408607408,Round,0.26,I,Brown,Orange,Orangey,Faint,I2,Excellent,Excellent,Excellent,2.8,4.0,12.77,3.88,11.85,VTN,XTK,M,Blue,Blue,Faint,IGI,834594,E1,2022-06-10
+798681270,Pear,4.4,M,Pink,Gray,Grayish,Fancy Light,VVS2,Poor,Poor,Very Good,8.2,9.1,3.38,5.69,9.27,M,TN,M,White,Blue,Slight,GIA,406236,Borderline,2022-01-22
+261229408,Cushion,6.11,J,Other,Gray,Orangey,Fancy Deep,VS2,Very Good,Excellent,Very Good,3.6,4.5,12.16,15.33,8.0,XTN,XTN,SL,Green,Blue,Very Slight,GIA,1263226,Yes,2006-04-25
+507902295,Princess,7.22,E,Brown,Yellow,Brownish,Very Light,I3,Fair,Good,Fair,9.2,2.7,13.86,3.61,14.08,STN,TK,VL,Blue,Green,Faint,IGI,825011,Borderline,2009-12-08
+935860168,Cushion Modified,11.87,G,Pink,Orange,Yellowish,Fancy Vivid,VVS2,Very Good,Poor,Poor,5.2,3.6,9.1,4.24,15.31,M,VTN,S,Orange,Green,Slight,GIA,1048977,Yes,2010-10-15
+581729266,Marquise,0.82,H,Pink,Chameleon,Pinkish,Fancy,I1,Fair,Good,Very Good,4.5,0.8,10.43,4.97,13.13,TK,TN,M,Blue,Blue,Faint,HRD,419164,Yes,2017-10-30
+462770887,Asscher,6.07,M,Other,Gray,Greenish,Fancy Dark,I3,Excellent,Very Good,Fair,1.2,3.5,16.73,5.92,12.38,TN,M,VL,Yellow,White,Strong,GIA,465559,Yes,2010-11-21
+708298026,Pear,5.56,J,Red,Orange,Yellowish,Fancy Deep,I3,Good,Very Good,Excellent,3.6,5.9,15.48,14.91,10.28,TN,M,VS,Orange,Green,Very Strong,IGI,733620,Borderline,2022-09-30
+428708923,Asscher,14.25,F,Chameleon,Pink,Greenish,Fancy Dark,I1,Poor,Fair,Poor,6.3,7.1,16.24,9.26,14.38,TK,M,VL,Blue,Orange,Strong,GIA,1055993,Yes,2007-10-20
+499766323,Heart,12.74,H,Green,Purple,Brownish,Fancy Deep,SI1,Excellent,Excellent,Very Good,4.6,1.6,8.2,3.6,14.54,M,TK,SL,Blue,Yellow,Faint,IGI,450718,No,2020-06-24
+839352991,Round,4.98,K,Green,Red,Yellowish,Fancy Intense,VVS2,Poor,Fair,Good,9.2,7.4,12.41,14.23,8.39,M,VTN,SL,Orange,Blue,Very Slight,IGI,245619,No,2015-09-01
+488297077,Cushion,11.89,J,Gray,Black,Grayish,Fancy Deep,I3,Excellent,Very Good,Poor,7.8,5.7,13.58,9.81,14.57,XTN,XTK,SL,Orange,White,Slight,HRD,1022185,E1,2011-05-05
+562715013,Round,14.4,L,Green,Blue,Pinkish,Fancy Dark,I3,Good,Good,Very Good,0.6,1.0,14.66,7.59,13.66,TN,VTK,VL,Green,White,Medium,GIA,1195190,Borderline,2023-08-16
+870261659,Asscher,1.35,H,Blue,Orange,Purplish,Fancy,SI1,Very Good,Very Good,Fair,6.6,4.3,15.15,10.0,5.78,VTN,STK,S,Blue,Blue,Slight,HRD,735249,E1,2020-02-22
+214761306,Pear,5.23,E,Red,Other,Brownish,Fancy Deep,I3,Excellent,Very Good,Excellent,0.9,2.5,12.29,5.86,3.46,TN,XTK,N,White,Green,Very Strong,GIA,1286980,Yes,2017-06-20
+559436903,Emerald,4.01,H,Purple,Chameleon,Yellowish,Fancy Dark,IF,Poor,Very Good,Excellent,6.9,7.6,7.97,2.88,6.52,TK,STK,L,White,Orange,Strong,IGI,1083590,Yes,2008-08-02
+883352813,Asscher,14.04,E,Black,Purple,Greenish,Faint,IF,Poor,Excellent,Excellent,0.3,3.2,15.6,4.41,14.84,XTN,VTN,M,Orange,White,Medium,IGI,269186,E1,2010-04-17
+931596521,Pear,16.59,I,Green,Orange,Brownish,Fancy Dark,VS2,Excellent,Excellent,Good,8.9,4.7,6.8,16.39,10.28,STN,M,VL,Yellow,White,Slight,GIA,258818,E1,2010-09-11
+799699170,Heart,9.49,L,Blue,Green,Grayish,Fancy,VVS2,Fair,Good,Excellent,3.7,7.1,11.19,5.33,5.86,TN,STK,M,Blue,Orange,Slight,HRD,848936,E1,2022-04-03
+787796334,Cushion Modified,12.63,K,Yellow,Other,Brownish,Fancy Intense,I3,Good,Fair,Very Good,0.9,0.8,4.62,16.48,15.76,VTN,STK,VS,Orange,White,Faint,IGI,486385,No,2023-04-23
+653662162,Cushion Modified,13.94,F,Other,Chameleon,Greenish,Faint,VS1,Very Good,Very Good,Excellent,9.4,4.0,11.57,13.9,3.35,STN,XTK,EL,White,Yellow,Medium,IGI,1352892,Yes,2006-02-25
+315929094,Cushion,17.87,I,Chameleon,Purple,Orangey,Fancy Dark,SI3,Very Good,Very Good,Fair,8.2,2.6,12.98,12.33,12.09,TN,XTK,VS,Orange,White,Very Strong,GIA,410778,Borderline,2020-06-18
+465090124,Oval,9.78,M,Red,Purple,Purplish,Fancy,IF,Good,Poor,Poor,6.4,5.1,16.77,13.04,9.41,TK,M,SL,Yellow,White,Slight,IGI,1255584,No,2003-11-28
+722662296,Emerald,3.94,I,Other,Blue,Yellowish,Very Light,IF,Good,Very Good,Excellent,6.4,0.8,14.79,15.26,8.06,M,TN,M,Yellow,Yellow,Very Strong,GIA,784102,No,2022-02-13
+309651919,Cushion,3.9,D,Yellow,Purple,Greenish,Fancy Light,SI3,Excellent,Good,Excellent,8.0,6.3,14.21,5.19,6.21,XTK,TK,N,Blue,White,Very Slight,HRD,898793,No,2007-07-03
+472198480,Pear,3.25,J,Red,Pink,Brownish,Light,SI3,Poor,Fair,Good,3.2,8.5,3.36,12.29,6.82,XTK,M,N,White,Blue,Medium,IGI,549850,Yes,2014-06-11
+977252740,Emerald,8.27,D,Brown,Black,Brownish,Fancy Vivid,I2,Excellent,Excellent,Very Good,0.9,1.7,12.63,9.08,16.8,TN,VTK,S,Yellow,White,Strong,GIA,118527,Yes,2015-04-03
+610770000,Cushion Modified,14.48,K,Black,Brown,Yellowish,Very Light,SI2,Very Good,Good,Very Good,5.4,8.4,8.53,10.28,15.05,STK,XTN,VL,Blue,Green,Medium,IGI,327510,E1,2019-07-21
+267650084,Cushion,9.15,K,Brown,Other,Purplish,Light,SI2,Poor,Good,Excellent,9.4,5.4,3.5,15.71,10.15,STN,VTK,VL,Orange,Yellow,Strong,GIA,664442,E1,2013-04-22
+429118686,Pear,16.79,L,Purple,Orange,Orangey,Fancy Light,VS2,Excellent,Fair,Good,1.6,5.7,15.14,10.02,11.12,TK,M,VL,Yellow,Green,Faint,GIA,62917,No,2005-12-12
+324365142,Round,14.94,D,Chameleon,Brown,Grayish,Fancy Deep,I2,Fair,Fair,Fair,0.8,0.9,12.49,15.62,9.25,STN,VTK,L,Blue,White,Very Slight,GIA,16984,Borderline,2007-12-03
+329112844,Round,4.45,M,Orange,Black,Orangey,Fancy Dark,SI3,Fair,Good,Poor,4.4,1.9,6.24,4.13,8.03,STK,M,VS,White,Orange,Slight,GIA,1245918,Borderline,2018-03-08
+269047837,Oval,11.86,J,Gray,Blue,Yellowish,Fancy Deep,I3,Fair,Poor,Excellent,1.0,7.3,5.33,16.79,4.2,TN,STN,S,Orange,Yellow,Strong,GIA,148459,No,2011-05-08
+810276609,Princess,3.49,F,Pink,Orange,Brownish,Fancy Vivid,IF,Fair,Excellent,Fair,4.7,8.9,4.6,4.29,6.8,TK,VTK,L,White,Green,Faint,GIA,284524,E1,2011-10-02
+118085471,Cushion,9.93,L,Blue,Black,Yellowish,Fancy Light,VVS2,Very Good,Poor,Excellent,4.0,0.2,13.68,12.56,6.12,VTK,STK,VS,Blue,White,Very Strong,GIA,917622,No,2017-06-22
+936388338,Round,11.98,D,Brown,Green,Grayish,Faint,I3,Very Good,Very Good,Poor,3.6,8.8,7.56,15.04,4.58,M,TK,EL,Green,Yellow,Strong,GIA,882261,E1,2022-10-19
+518188443,Marquise,11.58,J,Orange,Pink,Brownish,Fancy,VVS2,Very Good,Excellent,Poor,2.4,4.8,13.66,11.66,2.94,VTK,TN,SL,Green,White,Very Strong,HRD,99619,Yes,2010-07-06
+931620741,Marquise,11.84,I,Black,Black,Brownish,Fancy Intense,SI3,Very Good,Good,Very Good,2.9,1.8,15.86,12.47,13.03,XTK,VTN,SL,Green,White,Very Strong,HRD,967013,No,2021-07-30
+472670692,Oval,4.92,H,Purple,Pink,Purplish,Fancy Vivid,I1,Good,Fair,Excellent,5.2,6.5,9.46,10.67,8.13,STN,XTN,VS,White,Green,Faint,IGI,699226,E1,2023-04-04
+810558598,Cushion,7.89,K,Pink,Red,Greenish,Fancy Deep,SI2,Good,Poor,Very Good,8.0,6.9,15.32,15.68,12.41,M,XTK,N,Green,Blue,Slight,HRD,529880,Yes,2006-03-31
+261277607,Round,19.28,M,Brown,Other,Brownish,Very Light,VS2,Good,Excellent,Very Good,6.2,5.6,9.43,9.08,7.13,VTK,VTN,VS,Green,Orange,Faint,GIA,3263,Borderline,2019-03-09
+292263422,Princess,14.6,H,Black,Chameleon,Orangey,Fancy,VS2,Poor,Good,Poor,2.1,2.8,4.69,6.51,16.39,VTK,STK,S,Green,Blue,Faint,HRD,1157032,Borderline,2015-01-12
+402741789,Emerald,12.47,F,Orange,Chameleon,Grayish,Fancy Deep,VVS1,Excellent,Good,Excellent,6.2,0.1,4.58,13.26,8.75,M,VTN,VL,Yellow,Orange,Very Strong,HRD,1334772,No,2020-07-17
+524837349,Marquise,7.65,I,Yellow,Brown,Grayish,Very Light,SI1,Excellent,Fair,Very Good,0.3,2.8,4.19,12.09,4.95,TK,TK,EL,White,Orange,Faint,GIA,826717,Yes,2011-09-25
+140471205,Marquise,6.49,E,Red,Black,Grayish,Fancy Intense,VVS2,Poor,Good,Fair,2.7,7.5,7.07,8.36,11.25,VTN,M,VS,White,Orange,Very Strong,GIA,583693,No,2018-06-04
+787066919,Asscher,8.1,E,Green,Pink,Brownish,Light,I1,Good,Excellent,Poor,7.3,3.1,15.91,8.28,8.57,TK,TN,EL,Orange,White,Faint,HRD,521787,No,2014-08-12
+259840889,Emerald,12.04,H,Green,Black,Orangey,Fancy Vivid,SI2,Fair,Very Good,Excellent,1.8,8.5,4.63,14.66,3.91,VTN,STN,N,Blue,Blue,Strong,HRD,433367,E1,2019-07-30
+678964848,Asscher,17.67,H,Purple,Black,Purplish,Fancy,I2,Excellent,Fair,Very Good,4.4,3.2,9.24,14.03,14.62,VTK,TK,SL,White,Blue,Slight,IGI,260933,E1,2020-02-10
+181975350,Cushion,12.79,D,Orange,Pink,Brownish,Fancy Vivid,SI3,Good,Poor,Fair,8.1,5.8,5.44,8.91,9.12,XTK,TK,M,White,Orange,Strong,HRD,88537,Borderline,2010-03-09
+155397021,Round,6.6,K,Purple,Gray,Orangey,Fancy,I3,Excellent,Fair,Good,5.2,1.1,13.33,14.51,4.1,TN,TN,VS,Green,Yellow,Faint,IGI,1148081,Yes,2009-10-05
+424291187,Cushion Modified,2.19,E,Blue,Gray,Yellowish,Faint,I3,Very Good,Poor,Poor,6.9,2.2,16.28,15.37,9.37,VTK,VTN,N,Blue,Yellow,Medium,IGI,1189661,No,2021-06-01
+368816146,Emerald,8.31,D,Purple,Brown,Pinkish,Light,I1,Very Good,Poor,Very Good,3.2,8.2,4.02,9.1,13.1,M,TN,S,Green,Green,Strong,IGI,582597,E1,2023-05-09
+813401670,Cushion Modified,11.85,L,Purple,Orange,Brownish,Fancy Deep,IF,Good,Excellent,Excellent,2.8,1.0,16.11,6.48,7.54,M,XTK,SL,Blue,Yellow,Slight,HRD,48803,No,2015-04-01
+211500201,Oval,7.87,M,Red,Pink,Orangey,Very Light,IF,Excellent,Fair,Very Good,9.1,1.1,4.31,5.19,14.22,XTN,VTK,L,Yellow,Yellow,Very Strong,GIA,1280339,Yes,2015-10-17
+750463719,Oval,2.51,J,Gray,Brown,Grayish,Light,SI3,Very Good,Fair,Good,8.0,3.7,6.86,13.39,4.98,STN,STN,N,Green,Orange,Very Slight,IGI,280836,Yes,2023-04-23
+403405930,Princess,16.01,G,Chameleon,Brown,Yellowish,Fancy Deep,IF,Excellent,Very Good,Excellent,7.1,6.7,8.36,16.34,15.27,XTK,TK,SL,White,White,Very Strong,IGI,62445,No,2014-09-30
+910962439,Cushion,1.08,K,Black,Chameleon,Purplish,Light,VS2,Good,Good,Excellent,4.3,6.0,12.45,16.74,9.31,XTK,VTK,EL,White,White,Strong,HRD,963597,No,2014-07-14
+631307605,Oval,13.04,E,Pink,Red,Purplish,Fancy Deep,IF,Very Good,Fair,Poor,2.7,6.3,5.14,7.95,14.31,XTN,XTK,SL,Orange,Yellow,Slight,IGI,1142853,Yes,2014-06-08
+661676766,Heart,8.55,J,Green,Gray,Orangey,Fancy Vivid,SI1,Fair,Very Good,Poor,3.5,4.4,6.85,15.77,12.97,TN,STK,VL,Yellow,White,Slight,IGI,1217281,No,2017-12-31
+478975967,Cushion,14.57,I,Blue,Blue,Orangey,Fancy Vivid,IF,Very Good,Fair,Very Good,7.7,1.0,16.51,11.92,5.58,XTK,XTK,M,Green,Blue,Very Slight,IGI,379477,Yes,2022-12-14
+290145324,Pear,5.81,G,Blue,Yellow,Grayish,Faint,VS2,Poor,Poor,Fair,3.7,2.8,16.05,14.59,7.0,VTN,M,M,Yellow,Blue,Very Slight,GIA,1308338,No,2008-03-08
+664407964,Heart,7.24,H,Black,Purple,Purplish,Fancy Intense,VVS2,Very Good,Excellent,Very Good,8.7,4.9,13.3,2.91,6.66,M,M,VS,Green,Green,Medium,IGI,729312,Borderline,2005-03-27
+204201411,Asscher,13.33,L,Gray,Yellow,Yellowish,Faint,VS1,Very Good,Excellent,Excellent,8.9,3.8,8.4,9.49,15.95,VTN,VTN,SL,White,White,Very Strong,GIA,407024,No,2010-05-10
+670957387,Pear,7.08,M,Red,Blue,Orangey,Fancy Dark,SI2,Fair,Fair,Good,7.8,2.0,6.0,14.35,14.35,VTN,STN,SL,Yellow,Orange,Slight,IGI,28924,E1,2021-12-30
+467618210,Pear,7.03,E,Brown,Gray,Brownish,Light,I2,Very Good,Good,Very Good,7.2,2.1,15.12,16.27,7.65,VTN,STK,EL,Yellow,Yellow,Slight,IGI,1374328,Borderline,2010-06-02
+811226237,Oval,10.88,D,Gray,Yellow,Orangey,Fancy Deep,VS2,Fair,Poor,Very Good,7.1,3.2,14.19,3.25,13.75,M,STK,EL,Orange,Blue,Strong,IGI,442606,Borderline,2019-06-13
+535170819,Round,11.96,H,Black,Other,Pinkish,Fancy Dark,VVS1,Good,Excellent,Good,9.4,2.2,7.7,5.88,3.09,VTN,XTN,VS,Orange,Orange,Slight,IGI,216930,Yes,2009-09-26
+493068093,Marquise,9.11,H,Orange,Purple,Greenish,Very Light,VVS2,Excellent,Fair,Fair,2.5,2.2,4.24,13.11,6.44,TK,XTK,SL,Orange,Yellow,Very Strong,HRD,638895,E1,2007-03-27
+988759238,Cushion Modified,16.05,M,Gray,Purple,Brownish,Fancy Light,SI3,Good,Very Good,Very Good,3.0,7.2,3.17,16.91,5.29,STN,TK,EL,Yellow,Orange,Faint,GIA,1153237,Borderline,2010-08-13
+719612779,Round,9.03,M,Chameleon,Orange,Purplish,Light,VS1,Fair,Very Good,Excellent,8.4,1.2,8.84,10.4,7.18,TK,TK,VL,Yellow,Orange,Strong,GIA,1358941,E1,2003-10-13
+687960705,Marquise,16.72,E,Gray,Brown,Yellowish,Fancy,VS1,Very Good,Good,Good,1.0,6.1,15.23,6.19,14.37,VTN,STK,L,Orange,White,Slight,HRD,1429821,Yes,2023-01-11
